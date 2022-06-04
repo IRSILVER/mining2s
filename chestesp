@@ -12,6 +12,7 @@ local function contains(table, val)
    return false
 end
 while _G.chst do
+wait(0.1)
 for __,v in pairs(game:GetService("Workspace").Chests:GetChildren()) do
     if v:FindFirstChild("ESP") then v:FindFirstChild("ESP"):Destroy() end
     if contains(chestsn, v.Name) then
