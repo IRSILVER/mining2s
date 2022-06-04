@@ -5,7 +5,9 @@ Text = msg;
 Duration = 4;     
 })
 end
+if _G.On == true then
 notify("Autofarm loaded, Ores underneath you will be automatically farmed")
+
 function breakblock(pos)
    local args = {
        [1] = pos
@@ -53,3 +55,5 @@ while _G.On do
        )
    end
 end
+else 
+notify("Autofarm Disabled")
