@@ -3,7 +3,7 @@
 
 -- Instances:
 
-local _435345 = Instance.new("ScreenGui")
+local wma = Instance.new("ScreenGui")
 local Main = Instance.new("Frame")
 local UIGradient = Instance.new("UIGradient")
 local bar = Instance.new("Frame")
@@ -41,12 +41,12 @@ local UICorner_12 = Instance.new("UICorner")
 
 --Properties:
 
-_435345.Name = "435345"
-_435345.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
-_435345.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+wma.Name = "wma"
+wma.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+wma.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 Main.Name = "Main"
-Main.Parent = _435345
+Main.Parent = wma
 Main.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Main.BorderColor3 = Color3.fromRGB(27, 42, 53)
 Main.BorderSizePixel = 0
