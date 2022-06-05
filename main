@@ -300,6 +300,7 @@ local function CNNYDF_fake_script() -- bt1.LocalScript
 			Duration = 3;     
 		})
 	end
+	_G.On = false
 	i.MouseButton1Click:Connect(function()
 		if _G.On == true then
 			_G.On = false
