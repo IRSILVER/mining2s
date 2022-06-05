@@ -302,13 +302,14 @@ local function CNNYDF_fake_script() -- bt1.LocalScript
 	end
 	_G.On = false
 	i.MouseButton1Click:Connect(function()
-		if _G.On == true then
-			_G.On = false
-			loadstring(game:HttpGet("https://raw.githubusercontent.com/TwomadJR/mining2s/main/farm"))()
-			notify("Autofarm Disabled")
-		elseif _G.On == false then
+		if _G.On == false then
 			_G.On = true
 			loadstring(game:HttpGet("https://raw.githubusercontent.com/TwomadJR/mining2s/main/farm"))()
+		
+		elseif _G.On == true then
+			_G.On = false
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/TwomadJR/mining2s/main/farm"))()
+				notify("Autofarm Disabled")
 		end
 	end)
 end
