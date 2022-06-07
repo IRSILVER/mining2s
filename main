@@ -556,7 +556,7 @@ close_2.ImageRectSize = Vector2.new(24, 24)
 
 -- Scripts:
 
-local function DMCA_fake_script() -- bt1.LocalScript 
+local function PNZLPYJ_fake_script() -- bt1.LocalScript 
 	local script = Instance.new('LocalScript', bt1)
 
 	local i = script.Parent
@@ -572,7 +572,6 @@ local function DMCA_fake_script() -- bt1.LocalScript
 		if _G.On == false then
 			_G.On = true
 			loadstring(game:HttpGet("https://raw.githubusercontent.com/TwomadJR/mining2s/main/farm"))()
-			notify("Autofarm enabled, blocks underneath the player will be automatically mined")
 		elseif _G.On == true then
 			_G.On = false
 			loadstring(game:HttpGet("https://raw.githubusercontent.com/TwomadJR/mining2s/main/farm"))()
@@ -580,8 +579,8 @@ local function DMCA_fake_script() -- bt1.LocalScript
 		end
 	end)
 end
-coroutine.wrap(DMCA_fake_script)()
-local function FYKAY_fake_script() -- Button1.LocalScript 
+coroutine.wrap(PNZLPYJ_fake_script)()
+local function HQXA_fake_script() -- Button1.LocalScript 
 	local script = Instance.new('LocalScript', Button1)
 
 	local oth = script.Parent.Parent.Parent.th
@@ -597,8 +596,8 @@ local function FYKAY_fake_script() -- Button1.LocalScript
 		end
 	end)
 end
-coroutine.wrap(FYKAY_fake_script)()
-local function YLAJI_fake_script() -- Button2.LocalScript 
+coroutine.wrap(HQXA_fake_script)()
+local function RINT_fake_script() -- Button2.LocalScript 
 	local script = Instance.new('LocalScript', Button2)
 
 	local oth = script.Parent.Parent.Parent.tw
@@ -614,8 +613,8 @@ local function YLAJI_fake_script() -- Button2.LocalScript
 		end
 	end)
 end
-coroutine.wrap(YLAJI_fake_script)()
-local function UMWSSCX_fake_script() -- Button3.LocalScript 
+coroutine.wrap(RINT_fake_script)()
+local function VQUD_fake_script() -- Button3.LocalScript 
 	local script = Instance.new('LocalScript', Button3)
 
 	function notify(msg)
@@ -629,8 +628,8 @@ local function UMWSSCX_fake_script() -- Button3.LocalScript
 		notify("M!#2326")
 	end)
 end
-coroutine.wrap(UMWSSCX_fake_script)()
-local function SZLV_fake_script() -- Button4.LocalScript 
+coroutine.wrap(VQUD_fake_script)()
+local function LKRZUL_fake_script() -- Button4.LocalScript 
 	local script = Instance.new('LocalScript', Button4)
 
 	local fo = script.Parent.Parent.Parent.fo
@@ -648,8 +647,8 @@ local function SZLV_fake_script() -- Button4.LocalScript
 		end
 	end)
 end
-coroutine.wrap(SZLV_fake_script)()
-local function MTLEQED_fake_script() -- Button5.LocalScript 
+coroutine.wrap(LKRZUL_fake_script)()
+local function PHLC_fake_script() -- Button5.LocalScript 
 	local script = Instance.new('LocalScript', Button5)
 
 	function notify(msg)
@@ -663,8 +662,8 @@ local function MTLEQED_fake_script() -- Button5.LocalScript
 		notify("coming soon")
 	end)
 end
-coroutine.wrap(MTLEQED_fake_script)()
-local function FDWAER_fake_script() -- Main.LocalScript 
+coroutine.wrap(PHLC_fake_script)()
+local function ZPAPGG_fake_script() -- Main.LocalScript 
 	local script = Instance.new('LocalScript', Main)
 
 	local UIS = game:GetService("UserInputService")
@@ -705,8 +704,8 @@ local function FDWAER_fake_script() -- Main.LocalScript
 	
 	dragify(script.Parent)
 end
-coroutine.wrap(FDWAER_fake_script)()
-local function QTDSDF_fake_script() -- btn2.LocalScript 
+coroutine.wrap(ZPAPGG_fake_script)()
+local function NKDZYK_fake_script() -- btn2.LocalScript 
 	local script = Instance.new('LocalScript', btn2)
 
 	local i = script.Parent
@@ -722,8 +721,8 @@ local function QTDSDF_fake_script() -- btn2.LocalScript
 			notify("Ore ESP Enabled")
 	end)
 end
-coroutine.wrap(QTDSDF_fake_script)()
-local function IWGDTFF_fake_script() -- btn1.LocalScript 
+coroutine.wrap(NKDZYK_fake_script)()
+local function ETOKRR_fake_script() -- btn1.LocalScript 
 	local script = Instance.new('LocalScript', btn1)
 
 	local i = script.Parent
@@ -739,8 +738,8 @@ local function IWGDTFF_fake_script() -- btn1.LocalScript
 			notify("Chest ESP Enabled")
 	end)
 end
-coroutine.wrap(IWGDTFF_fake_script)()
-local function LEONYDZ_fake_script() -- Main.not 
+coroutine.wrap(ETOKRR_fake_script)()
+local function TNFRQRD_fake_script() -- Main.not 
 	local script = Instance.new('LocalScript', Main)
 
 	wait(0.2)
@@ -753,8 +752,8 @@ local function LEONYDZ_fake_script() -- Main.not
 	end
 	notify("Script loaded, Enjoy")
 end
-coroutine.wrap(LEONYDZ_fake_script)()
-local function CWJDW_fake_script() -- btn1_2.LocalScript 
+coroutine.wrap(TNFRQRD_fake_script)()
+local function XDVUJY_fake_script() -- btn1_2.LocalScript 
 	local script = Instance.new('LocalScript', btn1_2)
 
 	local i = script.Parent
@@ -777,8 +776,8 @@ local function CWJDW_fake_script() -- btn1_2.LocalScript
 		end
 	end)
 end
-coroutine.wrap(CWJDW_fake_script)()
-local function EPVC_fake_script() -- btn2_2.LocalScript 
+coroutine.wrap(XDVUJY_fake_script)()
+local function JQGLZDM_fake_script() -- btn2_2.LocalScript 
 	local script = Instance.new('LocalScript', btn2_2)
 
 	local i = script.Parent
@@ -801,8 +800,8 @@ local function EPVC_fake_script() -- btn2_2.LocalScript
 		end
 	end)
 end
-coroutine.wrap(EPVC_fake_script)()
-local function QHQPI_fake_script() -- btn9.LocalScript 
+coroutine.wrap(JQGLZDM_fake_script)()
+local function LCKY_fake_script() -- btn9.LocalScript 
 	local script = Instance.new('LocalScript', btn9)
 
 	local i = script.Parent
@@ -825,8 +824,8 @@ local function QHQPI_fake_script() -- btn9.LocalScript
 		end
 	end)
 end
-coroutine.wrap(QHQPI_fake_script)()
-local function TETX_fake_script() -- btn8.LocalScript 
+coroutine.wrap(LCKY_fake_script)()
+local function OFZBK_fake_script() -- btn8.LocalScript 
 	local script = Instance.new('LocalScript', btn8)
 
 	local i = script.Parent
@@ -849,8 +848,8 @@ local function TETX_fake_script() -- btn8.LocalScript
 		end
 	end)
 end
-coroutine.wrap(TETX_fake_script)()
-local function PNLIXWU_fake_script() -- btn7.LocalScript 
+coroutine.wrap(OFZBK_fake_script)()
+local function GIQMW_fake_script() -- btn7.LocalScript 
 	local script = Instance.new('LocalScript', btn7)
 
 	local i = script.Parent
@@ -873,8 +872,8 @@ local function PNLIXWU_fake_script() -- btn7.LocalScript
 		end
 	end)
 end
-coroutine.wrap(PNLIXWU_fake_script)()
-local function ENAO_fake_script() -- btn6.LocalScript 
+coroutine.wrap(GIQMW_fake_script)()
+local function MYISV_fake_script() -- btn6.LocalScript 
 	local script = Instance.new('LocalScript', btn6)
 
 	local i = script.Parent
@@ -897,8 +896,8 @@ local function ENAO_fake_script() -- btn6.LocalScript
 		end
 	end)
 end
-coroutine.wrap(ENAO_fake_script)()
-local function BJUDFWB_fake_script() -- btn5.LocalScript 
+coroutine.wrap(MYISV_fake_script)()
+local function YVJI_fake_script() -- btn5.LocalScript 
 	local script = Instance.new('LocalScript', btn5)
 
 	local i = script.Parent
@@ -921,8 +920,8 @@ local function BJUDFWB_fake_script() -- btn5.LocalScript
 		end
 	end)
 end
-coroutine.wrap(BJUDFWB_fake_script)()
-local function KAFFDLY_fake_script() -- btn4.LocalScript 
+coroutine.wrap(YVJI_fake_script)()
+local function NJXXBIK_fake_script() -- btn4.LocalScript 
 	local script = Instance.new('LocalScript', btn4)
 
 	local i = script.Parent
@@ -945,8 +944,8 @@ local function KAFFDLY_fake_script() -- btn4.LocalScript
 		end
 	end)
 end
-coroutine.wrap(KAFFDLY_fake_script)()
-local function JTTG_fake_script() -- btn3.LocalScript 
+coroutine.wrap(NJXXBIK_fake_script)()
+local function KIRGVN_fake_script() -- btn3.LocalScript 
 	local script = Instance.new('LocalScript', btn3)
 
 	local i = script.Parent
@@ -969,8 +968,8 @@ local function JTTG_fake_script() -- btn3.LocalScript
 		end
 	end)
 end
-coroutine.wrap(JTTG_fake_script)()
-local function TTJGNND_fake_script() -- btn10.LocalScript 
+coroutine.wrap(KIRGVN_fake_script)()
+local function AFXGR_fake_script() -- btn10.LocalScript 
 	local script = Instance.new('LocalScript', btn10)
 
 	local i = script.Parent
@@ -993,12 +992,28 @@ local function TTJGNND_fake_script() -- btn10.LocalScript
 		end
 	end)
 end
-coroutine.wrap(TTJGNND_fake_script)()
-local function HJXZKBV_fake_script() -- close.LocalScript 
+coroutine.wrap(AFXGR_fake_script)()
+local function UGVE_fake_script() -- close.LocalScript 
 	local script = Instance.new('LocalScript', close)
 
 	script.Parent.MouseButton1Click:Connect(function()
 		script.Parent.Parent.Parent.Parent:Destroy()
 	end)
 end
-coroutine.wrap(HJXZKBV_fake_script)()
+coroutine.wrap(UGVE_fake_script)()
+local function YJQWOB_fake_script() -- Main.Script 
+	local script = Instance.new('LocalScript', Main)
+
+	local UIS = game:GetService("UserInputService")
+	
+	UIS.InputBegan:Connect(function(input)
+		if input.KeyCode == Enum.KeyCode.RightShift then
+			if script.Parent.Visible == false then
+				script.Parent.Visible = true
+			elseif script.Parent.Visible == true then 
+				script.Parent.Visible = false
+			end
+		end
+	end)
+end
+coroutine.wrap(YJQWOB_fake_script)()
