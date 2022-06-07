@@ -12,81 +12,84 @@ local UICorner_2 = Instance.new("UICorner")
 local bt1 = Instance.new("TextButton")
 local UICorner_3 = Instance.new("UICorner")
 local UIGradient_2 = Instance.new("UIGradient")
+local bt3 = Instance.new("TextButton")
+local UICorner_4 = Instance.new("UICorner")
 local side = Instance.new("Frame")
 local Button1 = Instance.new("TextButton")
-local UICorner_4 = Instance.new("UICorner")
 local UICorner_5 = Instance.new("UICorner")
-local Button2 = Instance.new("TextButton")
 local UICorner_6 = Instance.new("UICorner")
-local Button3 = Instance.new("TextButton")
+local Button2 = Instance.new("TextButton")
 local UICorner_7 = Instance.new("UICorner")
+local Button3 = Instance.new("TextButton")
+local UICorner_8 = Instance.new("UICorner")
 local UIGradient_3 = Instance.new("UIGradient")
 local Button4 = Instance.new("TextButton")
-local UICorner_8 = Instance.new("UICorner")
-local Button5 = Instance.new("TextButton")
 local UICorner_9 = Instance.new("UICorner")
+local Button5 = Instance.new("TextButton")
+local UICorner_10 = Instance.new("UICorner")
 local change = Instance.new("TextLabel")
 local change_2 = Instance.new("TextLabel")
 local th = Instance.new("Frame")
 local UIGradient_4 = Instance.new("UIGradient")
-local UICorner_10 = Instance.new("UICorner")
-local btn2 = Instance.new("TextButton")
 local UICorner_11 = Instance.new("UICorner")
-local btn1 = Instance.new("TextButton")
+local btn2 = Instance.new("TextButton")
 local UICorner_12 = Instance.new("UICorner")
+local btn1 = Instance.new("TextButton")
+local UICorner_13 = Instance.new("UICorner")
 local fo = Instance.new("Frame")
 local UIGradient_5 = Instance.new("UIGradient")
-local UICorner_13 = Instance.new("UICorner")
-local btn1_2 = Instance.new("TextButton")
 local UICorner_14 = Instance.new("UICorner")
-local btn2_2 = Instance.new("TextButton")
+local btn1_2 = Instance.new("TextButton")
 local UICorner_15 = Instance.new("UICorner")
-local btn9 = Instance.new("TextButton")
+local btn2_2 = Instance.new("TextButton")
 local UICorner_16 = Instance.new("UICorner")
-local btn8 = Instance.new("TextButton")
+local btn9 = Instance.new("TextButton")
 local UICorner_17 = Instance.new("UICorner")
-local btn7 = Instance.new("TextButton")
+local btn8 = Instance.new("TextButton")
 local UICorner_18 = Instance.new("UICorner")
-local btn6 = Instance.new("TextButton")
+local btn7 = Instance.new("TextButton")
 local UICorner_19 = Instance.new("UICorner")
-local btn5 = Instance.new("TextButton")
+local btn6 = Instance.new("TextButton")
 local UICorner_20 = Instance.new("UICorner")
-local btn4 = Instance.new("TextButton")
+local btn5 = Instance.new("TextButton")
 local UICorner_21 = Instance.new("UICorner")
-local btn3 = Instance.new("TextButton")
+local btn4 = Instance.new("TextButton")
 local UICorner_22 = Instance.new("UICorner")
-local Frame = Instance.new("Frame")
+local btn3 = Instance.new("TextButton")
 local UICorner_23 = Instance.new("UICorner")
+local Frame = Instance.new("Frame")
+local UICorner_24 = Instance.new("UICorner")
 local UIGradient_6 = Instance.new("UIGradient")
 local bar = Instance.new("Frame")
-local UICorner_24 = Instance.new("UICorner")
+local UICorner_25 = Instance.new("UICorner")
 local UIGradient_7 = Instance.new("UIGradient")
 local TextLabel = Instance.new("TextLabel")
 local btn10 = Instance.new("TextButton")
-local UICorner_25 = Instance.new("UICorner")
+local UICorner_26 = Instance.new("UICorner")
 local TextLabel_2 = Instance.new("TextLabel")
 local bar_2 = Instance.new("Frame")
-local UICorner_26 = Instance.new("UICorner")
+local UICorner_27 = Instance.new("UICorner")
 local UIGradient_8 = Instance.new("UIGradient")
 local close = Instance.new("ImageButton")
 local TextLabel_3 = Instance.new("TextLabel")
 local close_2 = Instance.new("ImageButton")
+local change_3 = Instance.new("TextLabel")
+local change_4 = Instance.new("TextLabel")
 local fi = Instance.new("Frame")
 local UIGradient_9 = Instance.new("UIGradient")
-local UICorner_27 = Instance.new("UICorner")
-local btn1_3 = Instance.new("TextButton")
 local UICorner_28 = Instance.new("UICorner")
-local btn2_3 = Instance.new("TextButton")
+local btn1_3 = Instance.new("TextButton")
 local UICorner_29 = Instance.new("UICorner")
-local btn3_2 = Instance.new("TextButton")
+local btn2_3 = Instance.new("TextButton")
 local UICorner_30 = Instance.new("UICorner")
-local btn4_2 = Instance.new("TextButton")
+local btn3_2 = Instance.new("TextButton")
 local UICorner_31 = Instance.new("UICorner")
-local btn5_2 = Instance.new("TextButton")
+local btn4_2 = Instance.new("TextButton")
 local UICorner_32 = Instance.new("UICorner")
-local btn6_2 = Instance.new("TextButton")
+local btn5_2 = Instance.new("TextButton")
 local UICorner_33 = Instance.new("UICorner")
-local change_3 = Instance.new("TextLabel")
+local btn6_2 = Instance.new("TextButton")
+local UICorner_34 = Instance.new("UICorner")
 
 --Properties:
 
@@ -140,6 +143,21 @@ UICorner_3.Parent = bt1
 UIGradient_2.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(26, 26, 26)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(26, 26, 26))}
 UIGradient_2.Parent = tw
 
+bt3.Name = "bt3"
+bt3.Parent = tw
+bt3.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
+bt3.Position = UDim2.new(0.0577507578, 0, 0.172106832, 0)
+bt3.Size = UDim2.new(0, 293, 0, 30)
+bt3.ZIndex = 10002
+bt3.Font = Enum.Font.Cartoon
+bt3.Text = "Discover all areas"
+bt3.TextColor3 = Color3.fromRGB(255, 255, 255)
+bt3.TextSize = 23.000
+bt3.TextWrapped = true
+
+UICorner_4.CornerRadius = UDim.new(0, 4)
+UICorner_4.Parent = bt3
+
 side.Name = "side"
 side.Parent = Main
 side.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -160,11 +178,11 @@ Button1.TextColor3 = Color3.fromRGB(255, 255, 255)
 Button1.TextSize = 22.000
 Button1.TextWrapped = true
 
-UICorner_4.CornerRadius = UDim.new(0, 4)
-UICorner_4.Parent = Button1
-
 UICorner_5.CornerRadius = UDim.new(0, 4)
-UICorner_5.Parent = side
+UICorner_5.Parent = Button1
+
+UICorner_6.CornerRadius = UDim.new(0, 4)
+UICorner_6.Parent = side
 
 Button2.Name = "Button2"
 Button2.Parent = side
@@ -179,8 +197,8 @@ Button2.TextColor3 = Color3.fromRGB(255, 255, 255)
 Button2.TextSize = 22.000
 Button2.TextWrapped = true
 
-UICorner_6.CornerRadius = UDim.new(0, 4)
-UICorner_6.Parent = Button2
+UICorner_7.CornerRadius = UDim.new(0, 4)
+UICorner_7.Parent = Button2
 
 Button3.Name = "Button3"
 Button3.Parent = side
@@ -195,8 +213,8 @@ Button3.TextColor3 = Color3.fromRGB(255, 255, 255)
 Button3.TextSize = 22.000
 Button3.TextWrapped = true
 
-UICorner_7.CornerRadius = UDim.new(0, 4)
-UICorner_7.Parent = Button3
+UICorner_8.CornerRadius = UDim.new(0, 4)
+UICorner_8.Parent = Button3
 
 UIGradient_3.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(2, 2, 2)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(2, 2, 2))}
 UIGradient_3.Parent = side
@@ -214,8 +232,8 @@ Button4.TextColor3 = Color3.fromRGB(255, 255, 255)
 Button4.TextSize = 22.000
 Button4.TextWrapped = true
 
-UICorner_8.CornerRadius = UDim.new(0, 4)
-UICorner_8.Parent = Button4
+UICorner_9.CornerRadius = UDim.new(0, 4)
+UICorner_9.Parent = Button4
 
 Button5.Name = "Button5"
 Button5.Parent = side
@@ -230,8 +248,8 @@ Button5.TextColor3 = Color3.fromRGB(255, 255, 255)
 Button5.TextSize = 22.000
 Button5.TextWrapped = true
 
-UICorner_9.CornerRadius = UDim.new(0, 4)
-UICorner_9.Parent = Button5
+UICorner_10.CornerRadius = UDim.new(0, 4)
+UICorner_10.Parent = Button5
 
 change.Name = "change"
 change.Parent = Main
@@ -274,8 +292,8 @@ th.ZIndex = 10003
 UIGradient_4.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(26, 26, 26)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(26, 26, 26))}
 UIGradient_4.Parent = th
 
-UICorner_10.CornerRadius = UDim.new(0, 4)
-UICorner_10.Parent = th
+UICorner_11.CornerRadius = UDim.new(0, 4)
+UICorner_11.Parent = th
 
 btn2.Name = "btn2"
 btn2.Parent = th
@@ -289,8 +307,8 @@ btn2.TextColor3 = Color3.fromRGB(255, 255, 255)
 btn2.TextSize = 23.000
 btn2.TextWrapped = true
 
-UICorner_11.CornerRadius = UDim.new(0, 4)
-UICorner_11.Parent = btn2
+UICorner_12.CornerRadius = UDim.new(0, 4)
+UICorner_12.Parent = btn2
 
 btn1.Name = "btn1"
 btn1.Parent = th
@@ -304,8 +322,8 @@ btn1.TextColor3 = Color3.fromRGB(255, 255, 255)
 btn1.TextSize = 23.000
 btn1.TextWrapped = true
 
-UICorner_12.CornerRadius = UDim.new(0, 4)
-UICorner_12.Parent = btn1
+UICorner_13.CornerRadius = UDim.new(0, 4)
+UICorner_13.Parent = btn1
 
 fo.Name = "fo"
 fo.Parent = Main
@@ -320,8 +338,8 @@ fo.ZIndex = 10004
 UIGradient_5.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(26, 26, 26)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(26, 26, 26))}
 UIGradient_5.Parent = fo
 
-UICorner_13.CornerRadius = UDim.new(0, 4)
-UICorner_13.Parent = fo
+UICorner_14.CornerRadius = UDim.new(0, 4)
+UICorner_14.Parent = fo
 
 btn1_2.Name = "btn1"
 btn1_2.Parent = fo
@@ -336,8 +354,8 @@ btn1_2.TextScaled = true
 btn1_2.TextSize = 23.000
 btn1_2.TextWrapped = true
 
-UICorner_14.CornerRadius = UDim.new(0, 4)
-UICorner_14.Parent = btn1_2
+UICorner_15.CornerRadius = UDim.new(0, 4)
+UICorner_15.Parent = btn1_2
 
 btn2_2.Name = "btn2"
 btn2_2.Parent = fo
@@ -352,8 +370,8 @@ btn2_2.TextScaled = true
 btn2_2.TextSize = 23.000
 btn2_2.TextWrapped = true
 
-UICorner_15.CornerRadius = UDim.new(0, 4)
-UICorner_15.Parent = btn2_2
+UICorner_16.CornerRadius = UDim.new(0, 4)
+UICorner_16.Parent = btn2_2
 
 btn9.Name = "btn9"
 btn9.Parent = fo
@@ -367,8 +385,8 @@ btn9.TextColor3 = Color3.fromRGB(255, 255, 255)
 btn9.TextSize = 23.000
 btn9.TextWrapped = true
 
-UICorner_16.CornerRadius = UDim.new(0, 4)
-UICorner_16.Parent = btn9
+UICorner_17.CornerRadius = UDim.new(0, 4)
+UICorner_17.Parent = btn9
 
 btn8.Name = "btn8"
 btn8.Parent = fo
@@ -382,8 +400,8 @@ btn8.TextColor3 = Color3.fromRGB(255, 255, 255)
 btn8.TextSize = 23.000
 btn8.TextWrapped = true
 
-UICorner_17.CornerRadius = UDim.new(0, 4)
-UICorner_17.Parent = btn8
+UICorner_18.CornerRadius = UDim.new(0, 4)
+UICorner_18.Parent = btn8
 
 btn7.Name = "btn7"
 btn7.Parent = fo
@@ -398,8 +416,8 @@ btn7.TextScaled = true
 btn7.TextSize = 23.000
 btn7.TextWrapped = true
 
-UICorner_18.CornerRadius = UDim.new(0, 4)
-UICorner_18.Parent = btn7
+UICorner_19.CornerRadius = UDim.new(0, 4)
+UICorner_19.Parent = btn7
 
 btn6.Name = "btn6"
 btn6.Parent = fo
@@ -414,8 +432,8 @@ btn6.TextScaled = true
 btn6.TextSize = 23.000
 btn6.TextWrapped = true
 
-UICorner_19.CornerRadius = UDim.new(0, 4)
-UICorner_19.Parent = btn6
+UICorner_20.CornerRadius = UDim.new(0, 4)
+UICorner_20.Parent = btn6
 
 btn5.Name = "btn5"
 btn5.Parent = fo
@@ -430,8 +448,8 @@ btn5.TextScaled = true
 btn5.TextSize = 23.000
 btn5.TextWrapped = true
 
-UICorner_20.CornerRadius = UDim.new(0, 4)
-UICorner_20.Parent = btn5
+UICorner_21.CornerRadius = UDim.new(0, 4)
+UICorner_21.Parent = btn5
 
 btn4.Name = "btn4"
 btn4.Parent = fo
@@ -446,8 +464,8 @@ btn4.TextScaled = true
 btn4.TextSize = 23.000
 btn4.TextWrapped = true
 
-UICorner_21.CornerRadius = UDim.new(0, 4)
-UICorner_21.Parent = btn4
+UICorner_22.CornerRadius = UDim.new(0, 4)
+UICorner_22.Parent = btn4
 
 btn3.Name = "btn3"
 btn3.Parent = fo
@@ -462,8 +480,8 @@ btn3.TextScaled = true
 btn3.TextSize = 23.000
 btn3.TextWrapped = true
 
-UICorner_22.CornerRadius = UDim.new(0, 4)
-UICorner_22.Parent = btn3
+UICorner_23.CornerRadius = UDim.new(0, 4)
+UICorner_23.Parent = btn3
 
 Frame.Parent = fo
 Frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -471,8 +489,8 @@ Frame.Position = UDim2.new(1.00000012, 0, -0.12462908, 0)
 Frame.Size = UDim2.new(0, 155, 0, 380)
 Frame.ZIndex = 10004
 
-UICorner_23.CornerRadius = UDim.new(0, 4)
-UICorner_23.Parent = Frame
+UICorner_24.CornerRadius = UDim.new(0, 4)
+UICorner_24.Parent = Frame
 
 UIGradient_6.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(26, 26, 26)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(26, 26, 26))}
 UIGradient_6.Parent = Frame
@@ -483,8 +501,8 @@ bar.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 bar.Size = UDim2.new(0, 155, 0, 42)
 bar.ZIndex = 10004
 
-UICorner_24.CornerRadius = UDim.new(0, 4)
-UICorner_24.Parent = bar
+UICorner_25.CornerRadius = UDim.new(0, 4)
+UICorner_25.Parent = bar
 
 UIGradient_7.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(2, 2, 2)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(2, 2, 2))}
 UIGradient_7.Parent = bar
@@ -514,8 +532,8 @@ btn10.TextScaled = true
 btn10.TextSize = 23.000
 btn10.TextWrapped = true
 
-UICorner_25.CornerRadius = UDim.new(0, 4)
-UICorner_25.Parent = btn10
+UICorner_26.CornerRadius = UDim.new(0, 4)
+UICorner_26.Parent = btn10
 
 TextLabel_2.Parent = fo
 TextLabel_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -535,8 +553,8 @@ bar_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 bar_2.Size = UDim2.new(0, 447, 0, 42)
 bar_2.ZIndex = 100000
 
-UICorner_26.CornerRadius = UDim.new(0, 4)
-UICorner_26.Parent = bar_2
+UICorner_27.CornerRadius = UDim.new(0, 4)
+UICorner_27.Parent = bar_2
 
 UIGradient_8.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(2, 2, 2)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(2, 2, 2))}
 UIGradient_8.Parent = bar_2
@@ -570,112 +588,6 @@ close_2.Image = "rbxassetid://3926305904"
 close_2.ImageRectOffset = Vector2.new(284, 4)
 close_2.ImageRectSize = Vector2.new(24, 24)
 
-fi.Name = "fi"
-fi.Parent = Main
-fi.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-fi.BorderColor3 = Color3.fromRGB(27, 42, 53)
-fi.BorderSizePixel = 0
-fi.Position = UDim2.new(0.259507835, 0, 0.110526316, 0)
-fi.Size = UDim2.new(0, 329, 0, 337)
-fi.Visible = false
-fi.ZIndex = 10005
-
-UIGradient_9.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(26, 26, 26)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(26, 26, 26))}
-UIGradient_9.Parent = fi
-
-UICorner_27.CornerRadius = UDim.new(0, 4)
-UICorner_27.Parent = fi
-
-btn1_3.Name = "btn1"
-btn1_3.Parent = fi
-btn1_3.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
-btn1_3.Position = UDim2.new(0.0607902743, 0, 0.0415430255, 0)
-btn1_3.Size = UDim2.new(0, 273, 0, 30)
-btn1_3.ZIndex = 10005
-btn1_3.Font = Enum.Font.Cartoon
-btn1_3.Text = "Teleport to hidden treasure"
-btn1_3.TextColor3 = Color3.fromRGB(255, 255, 255)
-btn1_3.TextSize = 23.000
-btn1_3.TextWrapped = true
-
-UICorner_28.CornerRadius = UDim.new(0, 4)
-UICorner_28.Parent = btn1_3
-
-btn2_3.Name = "btn2"
-btn2_3.Parent = fi
-btn2_3.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
-btn2_3.Position = UDim2.new(0.0607902743, 0, 0.145400599, 0)
-btn2_3.Size = UDim2.new(0, 273, 0, 30)
-btn2_3.ZIndex = 10005
-btn2_3.Font = Enum.Font.Cartoon
-btn2_3.Text = "Teleport to frozen depths"
-btn2_3.TextColor3 = Color3.fromRGB(255, 255, 255)
-btn2_3.TextSize = 23.000
-btn2_3.TextWrapped = true
-
-UICorner_29.CornerRadius = UDim.new(0, 4)
-UICorner_29.Parent = btn2_3
-
-btn3_2.Name = "btn3"
-btn3_2.Parent = fi
-btn3_2.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
-btn3_2.Position = UDim2.new(0.0607902743, 0, 0.246290803, 0)
-btn3_2.Size = UDim2.new(0, 273, 0, 30)
-btn3_2.ZIndex = 10005
-btn3_2.Font = Enum.Font.Cartoon
-btn3_2.Text = "Teleport to gloomy basin"
-btn3_2.TextColor3 = Color3.fromRGB(255, 255, 255)
-btn3_2.TextSize = 23.000
-btn3_2.TextWrapped = true
-
-UICorner_30.CornerRadius = UDim.new(0, 4)
-UICorner_30.Parent = btn3_2
-
-btn4_2.Name = "btn4"
-btn4_2.Parent = fi
-btn4_2.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
-btn4_2.Position = UDim2.new(0.0610000007, 0, 0.349000007, 0)
-btn4_2.Size = UDim2.new(0, 273, 0, 30)
-btn4_2.ZIndex = 10005
-btn4_2.Font = Enum.Font.Cartoon
-btn4_2.Text = "Teleport to molten core"
-btn4_2.TextColor3 = Color3.fromRGB(255, 255, 255)
-btn4_2.TextSize = 23.000
-btn4_2.TextWrapped = true
-
-UICorner_31.CornerRadius = UDim.new(0, 4)
-UICorner_31.Parent = btn4_2
-
-btn5_2.Name = "btn5"
-btn5_2.Parent = fi
-btn5_2.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
-btn5_2.Position = UDim2.new(0.0610000007, 0, 0.451999992, 0)
-btn5_2.Size = UDim2.new(0, 273, 0, 30)
-btn5_2.ZIndex = 10005
-btn5_2.Font = Enum.Font.Cartoon
-btn5_2.Text = "Teleport to the underworld"
-btn5_2.TextColor3 = Color3.fromRGB(255, 255, 255)
-btn5_2.TextSize = 23.000
-btn5_2.TextWrapped = true
-
-UICorner_32.CornerRadius = UDim.new(0, 4)
-UICorner_32.Parent = btn5_2
-
-btn6_2.Name = "btn6"
-btn6_2.Parent = fi
-btn6_2.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
-btn6_2.Position = UDim2.new(0.0610000007, 0, 0.555000007, 0)
-btn6_2.Size = UDim2.new(0, 273, 0, 30)
-btn6_2.ZIndex = 10005
-btn6_2.Font = Enum.Font.Cartoon
-btn6_2.Text = "Teleport to crystal cavern"
-btn6_2.TextColor3 = Color3.fromRGB(255, 255, 255)
-btn6_2.TextSize = 23.000
-btn6_2.TextWrapped = true
-
-UICorner_33.CornerRadius = UDim.new(0, 4)
-UICorner_33.Parent = btn6_2
-
 change_3.Name = "change"
 change_3.Parent = Main
 change_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -690,9 +602,129 @@ change_3.TextSize = 20.000
 change_3.TextStrokeTransparency = 0.000
 change_3.TextWrapped = true
 
+change_4.Name = "change"
+change_4.Parent = Main
+change_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+change_4.BackgroundTransparency = 1.000
+change_4.Position = UDim2.new(0.259507835, 0, 0.478947401, 0)
+change_4.Size = UDim2.new(0, 331, 0, 43)
+change_4.ZIndex = 10000
+change_4.Font = Enum.Font.Cartoon
+change_4.Text = "- Discover all areas"
+change_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+change_4.TextSize = 20.000
+change_4.TextStrokeTransparency = 0.000
+change_4.TextWrapped = true
+
+fi.Name = "fi"
+fi.Parent = Main
+fi.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+fi.BorderColor3 = Color3.fromRGB(27, 42, 53)
+fi.BorderSizePixel = 0
+fi.Position = UDim2.new(0.259507835, 0, 0.110526316, 0)
+fi.Size = UDim2.new(0, 329, 0, 337)
+fi.Visible = false
+fi.ZIndex = 10005
+
+UIGradient_9.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(26, 26, 26)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(26, 26, 26))}
+UIGradient_9.Parent = fi
+
+UICorner_28.CornerRadius = UDim.new(0, 4)
+UICorner_28.Parent = fi
+
+btn1_3.Name = "btn1"
+btn1_3.Parent = fi
+btn1_3.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
+btn1_3.Position = UDim2.new(0.0607902743, 0, 0.0415430255, 0)
+btn1_3.Size = UDim2.new(0, 273, 0, 30)
+btn1_3.ZIndex = 10005
+btn1_3.Font = Enum.Font.Cartoon
+btn1_3.Text = "Teleport to hidden treasure"
+btn1_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+btn1_3.TextSize = 23.000
+btn1_3.TextWrapped = true
+
+UICorner_29.CornerRadius = UDim.new(0, 4)
+UICorner_29.Parent = btn1_3
+
+btn2_3.Name = "btn2"
+btn2_3.Parent = fi
+btn2_3.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
+btn2_3.Position = UDim2.new(0.0607902743, 0, 0.145400599, 0)
+btn2_3.Size = UDim2.new(0, 273, 0, 30)
+btn2_3.ZIndex = 10005
+btn2_3.Font = Enum.Font.Cartoon
+btn2_3.Text = "Teleport to frozen depths"
+btn2_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+btn2_3.TextSize = 23.000
+btn2_3.TextWrapped = true
+
+UICorner_30.CornerRadius = UDim.new(0, 4)
+UICorner_30.Parent = btn2_3
+
+btn3_2.Name = "btn3"
+btn3_2.Parent = fi
+btn3_2.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
+btn3_2.Position = UDim2.new(0.0607902743, 0, 0.246290803, 0)
+btn3_2.Size = UDim2.new(0, 273, 0, 30)
+btn3_2.ZIndex = 10005
+btn3_2.Font = Enum.Font.Cartoon
+btn3_2.Text = "Teleport to gloomy basin"
+btn3_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+btn3_2.TextSize = 23.000
+btn3_2.TextWrapped = true
+
+UICorner_31.CornerRadius = UDim.new(0, 4)
+UICorner_31.Parent = btn3_2
+
+btn4_2.Name = "btn4"
+btn4_2.Parent = fi
+btn4_2.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
+btn4_2.Position = UDim2.new(0.0610000007, 0, 0.349000007, 0)
+btn4_2.Size = UDim2.new(0, 273, 0, 30)
+btn4_2.ZIndex = 10005
+btn4_2.Font = Enum.Font.Cartoon
+btn4_2.Text = "Teleport to molten core"
+btn4_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+btn4_2.TextSize = 23.000
+btn4_2.TextWrapped = true
+
+UICorner_32.CornerRadius = UDim.new(0, 4)
+UICorner_32.Parent = btn4_2
+
+btn5_2.Name = "btn5"
+btn5_2.Parent = fi
+btn5_2.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
+btn5_2.Position = UDim2.new(0.0610000007, 0, 0.451999992, 0)
+btn5_2.Size = UDim2.new(0, 273, 0, 30)
+btn5_2.ZIndex = 10005
+btn5_2.Font = Enum.Font.Cartoon
+btn5_2.Text = "Teleport to the underworld"
+btn5_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+btn5_2.TextSize = 23.000
+btn5_2.TextWrapped = true
+
+UICorner_33.CornerRadius = UDim.new(0, 4)
+UICorner_33.Parent = btn5_2
+
+btn6_2.Name = "btn6"
+btn6_2.Parent = fi
+btn6_2.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
+btn6_2.Position = UDim2.new(0.0610000007, 0, 0.555000007, 0)
+btn6_2.Size = UDim2.new(0, 273, 0, 30)
+btn6_2.ZIndex = 10005
+btn6_2.Font = Enum.Font.Cartoon
+btn6_2.Text = "Teleport to crystal cavern"
+btn6_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+btn6_2.TextSize = 23.000
+btn6_2.TextWrapped = true
+
+UICorner_34.CornerRadius = UDim.new(0, 4)
+UICorner_34.Parent = btn6_2
+
 -- Scripts:
 
-local function NSIV_fake_script() -- bt1.LocalScript 
+local function PDDVRN_fake_script() -- bt1.LocalScript 
 	local script = Instance.new('LocalScript', bt1)
 
 	local i = script.Parent
@@ -715,8 +747,50 @@ local function NSIV_fake_script() -- bt1.LocalScript
 		end
 	end)
 end
-coroutine.wrap(NSIV_fake_script)()
-local function AKTGLFD_fake_script() -- Button1.LocalScript 
+coroutine.wrap(PDDVRN_fake_script)()
+local function QMTKBP_fake_script() -- bt3.LocalScript 
+	local script = Instance.new('LocalScript', bt3)
+
+	local i = script.Parent
+	function notify(msg)
+		game.StarterGui:SetCore("SendNotification", {
+			Title = "Mining simulator 2";         
+			Text = msg;         
+			Duration = 3;     
+		})
+	end
+	_G.On = false
+	i.MouseButton1Click:Connect(function()
+	
+		local plr = game:service"Players".LocalPlayer;
+		local tween_s = game:service"TweenService";
+		local info = TweenInfo.new(10,Enum.EasingStyle.Quad);
+		function tp(...)
+			local tic_k = tick();
+			local params = {...};
+			local cframe = CFrame.new(params[1],params[2],params[3]);
+			local tween,err = pcall(function()
+				local tween = tween_s:Create(plr.Character["HumanoidRootPart"],info,{CFrame=cframe});
+				tween:Play();
+			end)
+			if not tween then return err end
+		end
+		notify("Teleporting, Please wait...")
+		tp(-6.15831, -534.578, -20.9659);
+		wait(11)
+		tp(-6.44576311, -2034.57971, -23.562561, 0.998951793, 0.0241160113, 0.0389022306, -0.0272085052, 0.996340454, 0.0810282975, -0.0368057117, -0.0820018053, 0.995952249);
+		wait(11)
+		tp(-4.85861254, -3834.58105, -22.6843395, -0.901812971, 0.0179100484, -0.431755215, -0.022916289, 0.995752752, 0.0891712755, 0.431518376, 0.0903100073, -0.897572279);
+		wait(11)
+		tp(-6.45062542, -5634.58057, -23.5676804, 0.999183536, 0.0224117562, 0.0336110741, -0.0251770783, 0.996127009, 0.0842451304, -0.0315927453, -0.0850225687, 0.995877922);
+		wait(11)
+		tp(-2.49012494, -7434.59375, -18.3830814, -0.999535918, -0.024166476, 0.0185390096, -0.0225655288, 0.99636209, 0.0821807683, -0.0204576571, 0.0817242563, -0.996445);
+		wait(11)
+		tp(-6.4533453, -9234.58203, -23.5992279, 0.99904716, 0.0218333323, 0.0377873629, -0.0244683754, 0.997195005, 0.0707360953, -0.036136888, -0.0715932548, 0.996779084);
+	end)
+end
+coroutine.wrap(QMTKBP_fake_script)()
+local function KUCTJ_fake_script() -- Button1.LocalScript 
 	local script = Instance.new('LocalScript', Button1)
 
 	local oth = script.Parent.Parent.Parent.th
@@ -734,8 +808,8 @@ local function AKTGLFD_fake_script() -- Button1.LocalScript
 		end
 	end)
 end
-coroutine.wrap(AKTGLFD_fake_script)()
-local function HXKKX_fake_script() -- Button2.LocalScript 
+coroutine.wrap(KUCTJ_fake_script)()
+local function AIXR_fake_script() -- Button2.LocalScript 
 	local script = Instance.new('LocalScript', Button2)
 
 	local oth = script.Parent.Parent.Parent.tw
@@ -753,8 +827,8 @@ local function HXKKX_fake_script() -- Button2.LocalScript
 		end
 	end)
 end
-coroutine.wrap(HXKKX_fake_script)()
-local function FPSZHK_fake_script() -- Button3.LocalScript 
+coroutine.wrap(AIXR_fake_script)()
+local function YHCKKM_fake_script() -- Button3.LocalScript 
 	local script = Instance.new('LocalScript', Button3)
 
 	function notify(msg)
@@ -768,8 +842,8 @@ local function FPSZHK_fake_script() -- Button3.LocalScript
 		notify("M!#2326")
 	end)
 end
-coroutine.wrap(FPSZHK_fake_script)()
-local function DHYE_fake_script() -- Button4.LocalScript 
+coroutine.wrap(YHCKKM_fake_script)()
+local function UUIQCEY_fake_script() -- Button4.LocalScript 
 	local script = Instance.new('LocalScript', Button4)
 
 	local fo = script.Parent.Parent.Parent.fo
@@ -789,8 +863,8 @@ local function DHYE_fake_script() -- Button4.LocalScript
 		end
 	end)
 end
-coroutine.wrap(DHYE_fake_script)()
-local function WOSBRT_fake_script() -- Button5.LocalScript 
+coroutine.wrap(UUIQCEY_fake_script)()
+local function BPYNG_fake_script() -- Button5.LocalScript 
 	local script = Instance.new('LocalScript', Button5)
 
 	function notify(msg)
@@ -816,8 +890,8 @@ local function WOSBRT_fake_script() -- Button5.LocalScript
 		end
 	end)
 end
-coroutine.wrap(WOSBRT_fake_script)()
-local function ZHMXDS_fake_script() -- Main.LocalScript 
+coroutine.wrap(BPYNG_fake_script)()
+local function UHAZX_fake_script() -- Main.LocalScript 
 	local script = Instance.new('LocalScript', Main)
 
 	local UIS = game:GetService("UserInputService")
@@ -858,8 +932,8 @@ local function ZHMXDS_fake_script() -- Main.LocalScript
 	
 	dragify(script.Parent)
 end
-coroutine.wrap(ZHMXDS_fake_script)()
-local function ECZYZ_fake_script() -- btn2.LocalScript 
+coroutine.wrap(UHAZX_fake_script)()
+local function HJGO_fake_script() -- btn2.LocalScript 
 	local script = Instance.new('LocalScript', btn2)
 
 	local i = script.Parent
@@ -875,8 +949,8 @@ local function ECZYZ_fake_script() -- btn2.LocalScript
 			notify("Ore ESP Enabled")
 	end)
 end
-coroutine.wrap(ECZYZ_fake_script)()
-local function PXKRYXV_fake_script() -- btn1.LocalScript 
+coroutine.wrap(HJGO_fake_script)()
+local function SHWGXYB_fake_script() -- btn1.LocalScript 
 	local script = Instance.new('LocalScript', btn1)
 
 	local i = script.Parent
@@ -892,8 +966,8 @@ local function PXKRYXV_fake_script() -- btn1.LocalScript
 			notify("Chest ESP Enabled")
 	end)
 end
-coroutine.wrap(PXKRYXV_fake_script)()
-local function WHMVGE_fake_script() -- Main.not 
+coroutine.wrap(SHWGXYB_fake_script)()
+local function WWJHX_fake_script() -- Main.not 
 	local script = Instance.new('LocalScript', Main)
 
 	wait(0.2)
@@ -908,8 +982,8 @@ local function WHMVGE_fake_script() -- Main.not
 	wait(2)
 	notify("Press rightshift to hide/unhide gui")
 end
-coroutine.wrap(WHMVGE_fake_script)()
-local function ZTYZOVZ_fake_script() -- btn1_2.LocalScript 
+coroutine.wrap(WWJHX_fake_script)()
+local function FDGXL_fake_script() -- btn1_2.LocalScript 
 	local script = Instance.new('LocalScript', btn1_2)
 
 	local i = script.Parent
@@ -932,8 +1006,8 @@ local function ZTYZOVZ_fake_script() -- btn1_2.LocalScript
 		end
 	end)
 end
-coroutine.wrap(ZTYZOVZ_fake_script)()
-local function PSQO_fake_script() -- btn2_2.LocalScript 
+coroutine.wrap(FDGXL_fake_script)()
+local function WXBCUCU_fake_script() -- btn2_2.LocalScript 
 	local script = Instance.new('LocalScript', btn2_2)
 
 	local i = script.Parent
@@ -956,8 +1030,8 @@ local function PSQO_fake_script() -- btn2_2.LocalScript
 		end
 	end)
 end
-coroutine.wrap(PSQO_fake_script)()
-local function NGMCJL_fake_script() -- btn9.LocalScript 
+coroutine.wrap(WXBCUCU_fake_script)()
+local function PMFCO_fake_script() -- btn9.LocalScript 
 	local script = Instance.new('LocalScript', btn9)
 
 	local i = script.Parent
@@ -980,8 +1054,8 @@ local function NGMCJL_fake_script() -- btn9.LocalScript
 		end
 	end)
 end
-coroutine.wrap(NGMCJL_fake_script)()
-local function FMFSM_fake_script() -- btn8.LocalScript 
+coroutine.wrap(PMFCO_fake_script)()
+local function MQOZPQ_fake_script() -- btn8.LocalScript 
 	local script = Instance.new('LocalScript', btn8)
 
 	local i = script.Parent
@@ -1004,8 +1078,8 @@ local function FMFSM_fake_script() -- btn8.LocalScript
 		end
 	end)
 end
-coroutine.wrap(FMFSM_fake_script)()
-local function RAPH_fake_script() -- btn7.LocalScript 
+coroutine.wrap(MQOZPQ_fake_script)()
+local function UOKTBD_fake_script() -- btn7.LocalScript 
 	local script = Instance.new('LocalScript', btn7)
 
 	local i = script.Parent
@@ -1028,8 +1102,8 @@ local function RAPH_fake_script() -- btn7.LocalScript
 		end
 	end)
 end
-coroutine.wrap(RAPH_fake_script)()
-local function CWYMNFB_fake_script() -- btn6.LocalScript 
+coroutine.wrap(UOKTBD_fake_script)()
+local function ZETED_fake_script() -- btn6.LocalScript 
 	local script = Instance.new('LocalScript', btn6)
 
 	local i = script.Parent
@@ -1052,8 +1126,8 @@ local function CWYMNFB_fake_script() -- btn6.LocalScript
 		end
 	end)
 end
-coroutine.wrap(CWYMNFB_fake_script)()
-local function EHAA_fake_script() -- btn5.LocalScript 
+coroutine.wrap(ZETED_fake_script)()
+local function AHJJPY_fake_script() -- btn5.LocalScript 
 	local script = Instance.new('LocalScript', btn5)
 
 	local i = script.Parent
@@ -1076,8 +1150,8 @@ local function EHAA_fake_script() -- btn5.LocalScript
 		end
 	end)
 end
-coroutine.wrap(EHAA_fake_script)()
-local function PRNCC_fake_script() -- btn4.LocalScript 
+coroutine.wrap(AHJJPY_fake_script)()
+local function NXXYO_fake_script() -- btn4.LocalScript 
 	local script = Instance.new('LocalScript', btn4)
 
 	local i = script.Parent
@@ -1100,8 +1174,8 @@ local function PRNCC_fake_script() -- btn4.LocalScript
 		end
 	end)
 end
-coroutine.wrap(PRNCC_fake_script)()
-local function TJQRHVV_fake_script() -- btn3.LocalScript 
+coroutine.wrap(NXXYO_fake_script)()
+local function GWZD_fake_script() -- btn3.LocalScript 
 	local script = Instance.new('LocalScript', btn3)
 
 	local i = script.Parent
@@ -1124,8 +1198,8 @@ local function TJQRHVV_fake_script() -- btn3.LocalScript
 		end
 	end)
 end
-coroutine.wrap(TJQRHVV_fake_script)()
-local function UQYH_fake_script() -- btn10.LocalScript 
+coroutine.wrap(GWZD_fake_script)()
+local function TEIVT_fake_script() -- btn10.LocalScript 
 	local script = Instance.new('LocalScript', btn10)
 
 	local i = script.Parent
@@ -1148,16 +1222,16 @@ local function UQYH_fake_script() -- btn10.LocalScript
 		end
 	end)
 end
-coroutine.wrap(UQYH_fake_script)()
-local function VPQJA_fake_script() -- close.LocalScript 
+coroutine.wrap(TEIVT_fake_script)()
+local function AWXLGGW_fake_script() -- close.LocalScript 
 	local script = Instance.new('LocalScript', close)
 
 	script.Parent.MouseButton1Click:Connect(function()
 		script.Parent.Parent.Parent.Parent:Destroy()
 	end)
 end
-coroutine.wrap(VPQJA_fake_script)()
-local function XABCDDB_fake_script() -- Main.Script 
+coroutine.wrap(AWXLGGW_fake_script)()
+local function QABY_fake_script() -- Main.Script 
 	local script = Instance.new('LocalScript', Main)
 
 	local UIS = game:GetService("UserInputService")
@@ -1172,8 +1246,8 @@ local function XABCDDB_fake_script() -- Main.Script
 		end
 	end)
 end
-coroutine.wrap(XABCDDB_fake_script)()
-local function LIGBKM_fake_script() -- btn1_3.LocalScript 
+coroutine.wrap(QABY_fake_script)()
+local function BDTWIW_fake_script() -- btn1_3.LocalScript 
 	local script = Instance.new('LocalScript', btn1_3)
 
 	local i = script.Parent
@@ -1203,8 +1277,8 @@ local function LIGBKM_fake_script() -- btn1_3.LocalScript
 			notify("Teleporting, please wait")
 	end)
 end
-coroutine.wrap(LIGBKM_fake_script)()
-local function VMUJ_fake_script() -- btn2_3.LocalScript 
+coroutine.wrap(BDTWIW_fake_script)()
+local function HMQEYWO_fake_script() -- btn2_3.LocalScript 
 	local script = Instance.new('LocalScript', btn2_3)
 
 	local i = script.Parent
@@ -1234,8 +1308,8 @@ local function VMUJ_fake_script() -- btn2_3.LocalScript
 		notify("Teleporting, please wait")
 	end)
 end
-coroutine.wrap(VMUJ_fake_script)()
-local function IGKEJM_fake_script() -- btn3_2.LocalScript 
+coroutine.wrap(HMQEYWO_fake_script)()
+local function HYQR_fake_script() -- btn3_2.LocalScript 
 	local script = Instance.new('LocalScript', btn3_2)
 
 	local i = script.Parent
@@ -1264,8 +1338,8 @@ local function IGKEJM_fake_script() -- btn3_2.LocalScript
 		tp(-4.85861254, -3834.58105, -22.6843395, -0.901812971, 0.0179100484, -0.431755215, -0.022916289, 0.995752752, 0.0891712755, 0.431518376, 0.0903100073, -0.897572279);
 	end)
 end
-coroutine.wrap(IGKEJM_fake_script)()
-local function SEFTQB_fake_script() -- btn4_2.LocalScript 
+coroutine.wrap(HYQR_fake_script)()
+local function ACVGVPY_fake_script() -- btn4_2.LocalScript 
 	local script = Instance.new('LocalScript', btn4_2)
 
 	local i = script.Parent
@@ -1295,8 +1369,8 @@ local function SEFTQB_fake_script() -- btn4_2.LocalScript
 	notify("Teleporting, please wait")
 	end)
 end
-coroutine.wrap(SEFTQB_fake_script)()
-local function RPIPROV_fake_script() -- btn5_2.LocalScript 
+coroutine.wrap(ACVGVPY_fake_script)()
+local function NNHLNU_fake_script() -- btn5_2.LocalScript 
 	local script = Instance.new('LocalScript', btn5_2)
 
 	local i = script.Parent
@@ -1326,8 +1400,8 @@ local function RPIPROV_fake_script() -- btn5_2.LocalScript
 		notify("Teleporting, please wait")
 	end)
 end
-coroutine.wrap(RPIPROV_fake_script)()
-local function JIWCN_fake_script() -- btn6_2.LocalScript 
+coroutine.wrap(NNHLNU_fake_script)()
+local function BOETWJJ_fake_script() -- btn6_2.LocalScript 
 	local script = Instance.new('LocalScript', btn6_2)
 
 	local i = script.Parent
@@ -1357,4 +1431,4 @@ local function JIWCN_fake_script() -- btn6_2.LocalScript
 		notify("Teleporting, please wait")
 	end)
 end
-coroutine.wrap(JIWCN_fake_script)()
+coroutine.wrap(BOETWJJ_fake_script)()
