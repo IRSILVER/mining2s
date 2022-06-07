@@ -71,6 +71,22 @@ local UIGradient_8 = Instance.new("UIGradient")
 local close = Instance.new("ImageButton")
 local TextLabel_3 = Instance.new("TextLabel")
 local close_2 = Instance.new("ImageButton")
+local fi = Instance.new("Frame")
+local UIGradient_9 = Instance.new("UIGradient")
+local UICorner_27 = Instance.new("UICorner")
+local btn1_3 = Instance.new("TextButton")
+local UICorner_28 = Instance.new("UICorner")
+local btn2_3 = Instance.new("TextButton")
+local UICorner_29 = Instance.new("UICorner")
+local btn3_2 = Instance.new("TextButton")
+local UICorner_30 = Instance.new("UICorner")
+local btn4_2 = Instance.new("TextButton")
+local UICorner_31 = Instance.new("UICorner")
+local btn5_2 = Instance.new("TextButton")
+local UICorner_32 = Instance.new("UICorner")
+local btn6_2 = Instance.new("TextButton")
+local UICorner_33 = Instance.new("UICorner")
+local change_3 = Instance.new("TextLabel")
 
 --Properties:
 
@@ -554,9 +570,129 @@ close_2.Image = "rbxassetid://3926305904"
 close_2.ImageRectOffset = Vector2.new(284, 4)
 close_2.ImageRectSize = Vector2.new(24, 24)
 
+fi.Name = "fi"
+fi.Parent = Main
+fi.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+fi.BorderColor3 = Color3.fromRGB(27, 42, 53)
+fi.BorderSizePixel = 0
+fi.Position = UDim2.new(0.259507835, 0, 0.110526316, 0)
+fi.Size = UDim2.new(0, 329, 0, 337)
+fi.Visible = false
+fi.ZIndex = 10005
+
+UIGradient_9.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(26, 26, 26)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(26, 26, 26))}
+UIGradient_9.Parent = fi
+
+UICorner_27.CornerRadius = UDim.new(0, 4)
+UICorner_27.Parent = fi
+
+btn1_3.Name = "btn1"
+btn1_3.Parent = fi
+btn1_3.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
+btn1_3.Position = UDim2.new(0.0607902743, 0, 0.0415430255, 0)
+btn1_3.Size = UDim2.new(0, 273, 0, 30)
+btn1_3.ZIndex = 10005
+btn1_3.Font = Enum.Font.Cartoon
+btn1_3.Text = "Teleport to hidden treasure"
+btn1_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+btn1_3.TextSize = 23.000
+btn1_3.TextWrapped = true
+
+UICorner_28.CornerRadius = UDim.new(0, 4)
+UICorner_28.Parent = btn1_3
+
+btn2_3.Name = "btn2"
+btn2_3.Parent = fi
+btn2_3.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
+btn2_3.Position = UDim2.new(0.0607902743, 0, 0.145400599, 0)
+btn2_3.Size = UDim2.new(0, 273, 0, 30)
+btn2_3.ZIndex = 10005
+btn2_3.Font = Enum.Font.Cartoon
+btn2_3.Text = "Teleport to frozen depths"
+btn2_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+btn2_3.TextSize = 23.000
+btn2_3.TextWrapped = true
+
+UICorner_29.CornerRadius = UDim.new(0, 4)
+UICorner_29.Parent = btn2_3
+
+btn3_2.Name = "btn3"
+btn3_2.Parent = fi
+btn3_2.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
+btn3_2.Position = UDim2.new(0.0607902743, 0, 0.246290803, 0)
+btn3_2.Size = UDim2.new(0, 273, 0, 30)
+btn3_2.ZIndex = 10005
+btn3_2.Font = Enum.Font.Cartoon
+btn3_2.Text = "Teleport to gloomy basin"
+btn3_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+btn3_2.TextSize = 23.000
+btn3_2.TextWrapped = true
+
+UICorner_30.CornerRadius = UDim.new(0, 4)
+UICorner_30.Parent = btn3_2
+
+btn4_2.Name = "btn4"
+btn4_2.Parent = fi
+btn4_2.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
+btn4_2.Position = UDim2.new(0.0610000007, 0, 0.349000007, 0)
+btn4_2.Size = UDim2.new(0, 273, 0, 30)
+btn4_2.ZIndex = 10005
+btn4_2.Font = Enum.Font.Cartoon
+btn4_2.Text = "Teleport to molten core"
+btn4_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+btn4_2.TextSize = 23.000
+btn4_2.TextWrapped = true
+
+UICorner_31.CornerRadius = UDim.new(0, 4)
+UICorner_31.Parent = btn4_2
+
+btn5_2.Name = "btn5"
+btn5_2.Parent = fi
+btn5_2.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
+btn5_2.Position = UDim2.new(0.0610000007, 0, 0.451999992, 0)
+btn5_2.Size = UDim2.new(0, 273, 0, 30)
+btn5_2.ZIndex = 10005
+btn5_2.Font = Enum.Font.Cartoon
+btn5_2.Text = "Teleport to the underworld"
+btn5_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+btn5_2.TextSize = 23.000
+btn5_2.TextWrapped = true
+
+UICorner_32.CornerRadius = UDim.new(0, 4)
+UICorner_32.Parent = btn5_2
+
+btn6_2.Name = "btn6"
+btn6_2.Parent = fi
+btn6_2.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
+btn6_2.Position = UDim2.new(0.0610000007, 0, 0.555000007, 0)
+btn6_2.Size = UDim2.new(0, 273, 0, 30)
+btn6_2.ZIndex = 10005
+btn6_2.Font = Enum.Font.Cartoon
+btn6_2.Text = "Teleport to crystal cavern"
+btn6_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+btn6_2.TextSize = 23.000
+btn6_2.TextWrapped = true
+
+UICorner_33.CornerRadius = UDim.new(0, 4)
+UICorner_33.Parent = btn6_2
+
+change_3.Name = "change"
+change_3.Parent = Main
+change_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+change_3.BackgroundTransparency = 1.000
+change_3.Position = UDim2.new(0.259507835, 0, 0.368421078, 0)
+change_3.Size = UDim2.new(0, 331, 0, 43)
+change_3.ZIndex = 10000
+change_3.Font = Enum.Font.Cartoon
+change_3.Text = "- Teleport Menu  "
+change_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+change_3.TextSize = 20.000
+change_3.TextStrokeTransparency = 0.000
+change_3.TextWrapped = true
+
 -- Scripts:
 
-local function CBEI_fake_script() -- bt1.LocalScript 
+local function NSIV_fake_script() -- bt1.LocalScript 
 	local script = Instance.new('LocalScript', bt1)
 
 	local i = script.Parent
@@ -579,42 +715,46 @@ local function CBEI_fake_script() -- bt1.LocalScript
 		end
 	end)
 end
-coroutine.wrap(CBEI_fake_script)()
-local function IZRVQOF_fake_script() -- Button1.LocalScript 
+coroutine.wrap(NSIV_fake_script)()
+local function AKTGLFD_fake_script() -- Button1.LocalScript 
 	local script = Instance.new('LocalScript', Button1)
 
 	local oth = script.Parent.Parent.Parent.th
 	local tw = script.Parent.Parent.Parent.tw
 	local fo = script.Parent.Parent.Parent.fo
+	local fi = script.Parent.Parent.Parent.fi
 	script.Parent.MouseButton1Click:Connect(function()
 		if tw.Visible == true then
 			tw.Visible = false
 		elseif tw.Visible == false then
 			tw.Visible = true
 			oth.Visible = false
+			fi.Visible = false
 			fo.Visible = false
 		end
 	end)
 end
-coroutine.wrap(IZRVQOF_fake_script)()
-local function UNHQNOQ_fake_script() -- Button2.LocalScript 
+coroutine.wrap(AKTGLFD_fake_script)()
+local function HXKKX_fake_script() -- Button2.LocalScript 
 	local script = Instance.new('LocalScript', Button2)
 
 	local oth = script.Parent.Parent.Parent.tw
 	local tw = script.Parent.Parent.Parent.th
 	local fo = script.Parent.Parent.Parent.fo
+	local fi = script.Parent.Parent.Parent.fi
 	script.Parent.MouseButton1Click:Connect(function()
 		if tw.Visible == true then
 			tw.Visible = false
 		elseif tw.Visible == false then
 			tw.Visible = true
 			oth.Visible = false
+			fi.Visible = false
 			fo.Visible = false
 		end
 	end)
 end
-coroutine.wrap(UNHQNOQ_fake_script)()
-local function CMFTEW_fake_script() -- Button3.LocalScript 
+coroutine.wrap(HXKKX_fake_script)()
+local function FPSZHK_fake_script() -- Button3.LocalScript 
 	local script = Instance.new('LocalScript', Button3)
 
 	function notify(msg)
@@ -628,27 +768,29 @@ local function CMFTEW_fake_script() -- Button3.LocalScript
 		notify("M!#2326")
 	end)
 end
-coroutine.wrap(CMFTEW_fake_script)()
-local function ODCOOU_fake_script() -- Button4.LocalScript 
+coroutine.wrap(FPSZHK_fake_script)()
+local function DHYE_fake_script() -- Button4.LocalScript 
 	local script = Instance.new('LocalScript', Button4)
 
 	local fo = script.Parent.Parent.Parent.fo
 	local me = script.Parent
 	local th = script.Parent.Parent.Parent.tw
 	local tw = script.Parent.Parent.Parent.th
+	local fi = script.Parent.Parent.Parent.fi
 	
 	me.MouseButton1Click:Connect(function()
 		if fo.Visible == false then
 			fo.Visible = true
 			th.Visible = false
 			tw.Visible = false
+			fi.Visible = false
 		elseif fo.Visible == true then
 			fo.Visible = false
 		end
 	end)
 end
-coroutine.wrap(ODCOOU_fake_script)()
-local function PEGYNCI_fake_script() -- Button5.LocalScript 
+coroutine.wrap(DHYE_fake_script)()
+local function WOSBRT_fake_script() -- Button5.LocalScript 
 	local script = Instance.new('LocalScript', Button5)
 
 	function notify(msg)
@@ -658,12 +800,24 @@ local function PEGYNCI_fake_script() -- Button5.LocalScript
 			Duration = 3;     
 		})
 	end
+	local fi = script.Parent.Parent.Parent.fi
+	local fo = script.Parent.Parent.Parent.fo
+	local par = script.Parent.Parent.Parent
+	local th = par.tw
+	local tw = par.th
 	script.Parent.MouseButton1Click:Connect(function()
-		notify("coming soon")
+		if fi.Visible == false then
+			fi.Visible = true
+			tw.Visible = false
+			fo.Visible = false
+			th.Visible = false
+		elseif fi.Visible == true then
+			fi.Visible = false
+		end
 	end)
 end
-coroutine.wrap(PEGYNCI_fake_script)()
-local function SAMIU_fake_script() -- Main.LocalScript 
+coroutine.wrap(WOSBRT_fake_script)()
+local function ZHMXDS_fake_script() -- Main.LocalScript 
 	local script = Instance.new('LocalScript', Main)
 
 	local UIS = game:GetService("UserInputService")
@@ -704,8 +858,8 @@ local function SAMIU_fake_script() -- Main.LocalScript
 	
 	dragify(script.Parent)
 end
-coroutine.wrap(SAMIU_fake_script)()
-local function NPRRPH_fake_script() -- btn2.LocalScript 
+coroutine.wrap(ZHMXDS_fake_script)()
+local function ECZYZ_fake_script() -- btn2.LocalScript 
 	local script = Instance.new('LocalScript', btn2)
 
 	local i = script.Parent
@@ -721,8 +875,8 @@ local function NPRRPH_fake_script() -- btn2.LocalScript
 			notify("Ore ESP Enabled")
 	end)
 end
-coroutine.wrap(NPRRPH_fake_script)()
-local function TQCUHU_fake_script() -- btn1.LocalScript 
+coroutine.wrap(ECZYZ_fake_script)()
+local function PXKRYXV_fake_script() -- btn1.LocalScript 
 	local script = Instance.new('LocalScript', btn1)
 
 	local i = script.Parent
@@ -738,14 +892,14 @@ local function TQCUHU_fake_script() -- btn1.LocalScript
 			notify("Chest ESP Enabled")
 	end)
 end
-coroutine.wrap(TQCUHU_fake_script)()
-local function MSTXQW_fake_script() -- Main.not 
+coroutine.wrap(PXKRYXV_fake_script)()
+local function WHMVGE_fake_script() -- Main.not 
 	local script = Instance.new('LocalScript', Main)
 
 	wait(0.2)
 	function notify(msg)
 		game.StarterGui:SetCore("SendNotification", {
-			Title = "Mining simulator 2 (V1.2)";         
+			Title = "Mining simulator 2 (V1.3)";         
 			Text = msg;         
 			Duration = 3;     
 		})
@@ -754,8 +908,8 @@ local function MSTXQW_fake_script() -- Main.not
 	wait(2)
 	notify("Press rightshift to hide/unhide gui")
 end
-coroutine.wrap(MSTXQW_fake_script)()
-local function GMTFEL_fake_script() -- btn1_2.LocalScript 
+coroutine.wrap(WHMVGE_fake_script)()
+local function ZTYZOVZ_fake_script() -- btn1_2.LocalScript 
 	local script = Instance.new('LocalScript', btn1_2)
 
 	local i = script.Parent
@@ -778,8 +932,8 @@ local function GMTFEL_fake_script() -- btn1_2.LocalScript
 		end
 	end)
 end
-coroutine.wrap(GMTFEL_fake_script)()
-local function SUWO_fake_script() -- btn2_2.LocalScript 
+coroutine.wrap(ZTYZOVZ_fake_script)()
+local function PSQO_fake_script() -- btn2_2.LocalScript 
 	local script = Instance.new('LocalScript', btn2_2)
 
 	local i = script.Parent
@@ -802,8 +956,8 @@ local function SUWO_fake_script() -- btn2_2.LocalScript
 		end
 	end)
 end
-coroutine.wrap(SUWO_fake_script)()
-local function NEBS_fake_script() -- btn9.LocalScript 
+coroutine.wrap(PSQO_fake_script)()
+local function NGMCJL_fake_script() -- btn9.LocalScript 
 	local script = Instance.new('LocalScript', btn9)
 
 	local i = script.Parent
@@ -826,8 +980,8 @@ local function NEBS_fake_script() -- btn9.LocalScript
 		end
 	end)
 end
-coroutine.wrap(NEBS_fake_script)()
-local function QYET_fake_script() -- btn8.LocalScript 
+coroutine.wrap(NGMCJL_fake_script)()
+local function FMFSM_fake_script() -- btn8.LocalScript 
 	local script = Instance.new('LocalScript', btn8)
 
 	local i = script.Parent
@@ -850,8 +1004,8 @@ local function QYET_fake_script() -- btn8.LocalScript
 		end
 	end)
 end
-coroutine.wrap(QYET_fake_script)()
-local function VQCCL_fake_script() -- btn7.LocalScript 
+coroutine.wrap(FMFSM_fake_script)()
+local function RAPH_fake_script() -- btn7.LocalScript 
 	local script = Instance.new('LocalScript', btn7)
 
 	local i = script.Parent
@@ -874,8 +1028,8 @@ local function VQCCL_fake_script() -- btn7.LocalScript
 		end
 	end)
 end
-coroutine.wrap(VQCCL_fake_script)()
-local function KWEHD_fake_script() -- btn6.LocalScript 
+coroutine.wrap(RAPH_fake_script)()
+local function CWYMNFB_fake_script() -- btn6.LocalScript 
 	local script = Instance.new('LocalScript', btn6)
 
 	local i = script.Parent
@@ -898,8 +1052,8 @@ local function KWEHD_fake_script() -- btn6.LocalScript
 		end
 	end)
 end
-coroutine.wrap(KWEHD_fake_script)()
-local function AHOC_fake_script() -- btn5.LocalScript 
+coroutine.wrap(CWYMNFB_fake_script)()
+local function EHAA_fake_script() -- btn5.LocalScript 
 	local script = Instance.new('LocalScript', btn5)
 
 	local i = script.Parent
@@ -922,8 +1076,8 @@ local function AHOC_fake_script() -- btn5.LocalScript
 		end
 	end)
 end
-coroutine.wrap(AHOC_fake_script)()
-local function SYXPJDU_fake_script() -- btn4.LocalScript 
+coroutine.wrap(EHAA_fake_script)()
+local function PRNCC_fake_script() -- btn4.LocalScript 
 	local script = Instance.new('LocalScript', btn4)
 
 	local i = script.Parent
@@ -946,8 +1100,8 @@ local function SYXPJDU_fake_script() -- btn4.LocalScript
 		end
 	end)
 end
-coroutine.wrap(SYXPJDU_fake_script)()
-local function EHYEND_fake_script() -- btn3.LocalScript 
+coroutine.wrap(PRNCC_fake_script)()
+local function TJQRHVV_fake_script() -- btn3.LocalScript 
 	local script = Instance.new('LocalScript', btn3)
 
 	local i = script.Parent
@@ -970,8 +1124,8 @@ local function EHYEND_fake_script() -- btn3.LocalScript
 		end
 	end)
 end
-coroutine.wrap(EHYEND_fake_script)()
-local function CTNB_fake_script() -- btn10.LocalScript 
+coroutine.wrap(TJQRHVV_fake_script)()
+local function UQYH_fake_script() -- btn10.LocalScript 
 	local script = Instance.new('LocalScript', btn10)
 
 	local i = script.Parent
@@ -994,16 +1148,16 @@ local function CTNB_fake_script() -- btn10.LocalScript
 		end
 	end)
 end
-coroutine.wrap(CTNB_fake_script)()
-local function IMOPXA_fake_script() -- close.LocalScript 
+coroutine.wrap(UQYH_fake_script)()
+local function VPQJA_fake_script() -- close.LocalScript 
 	local script = Instance.new('LocalScript', close)
 
 	script.Parent.MouseButton1Click:Connect(function()
 		script.Parent.Parent.Parent.Parent:Destroy()
 	end)
 end
-coroutine.wrap(IMOPXA_fake_script)()
-local function AHCDPZ_fake_script() -- Main.Script 
+coroutine.wrap(VPQJA_fake_script)()
+local function XABCDDB_fake_script() -- Main.Script 
 	local script = Instance.new('LocalScript', Main)
 
 	local UIS = game:GetService("UserInputService")
@@ -1018,4 +1172,189 @@ local function AHCDPZ_fake_script() -- Main.Script
 		end
 	end)
 end
-coroutine.wrap(AHCDPZ_fake_script)()
+coroutine.wrap(XABCDDB_fake_script)()
+local function LIGBKM_fake_script() -- btn1_3.LocalScript 
+	local script = Instance.new('LocalScript', btn1_3)
+
+	local i = script.Parent
+	function notify(msg)
+		game.StarterGui:SetCore("SendNotification", {
+			Title = "Mining simulator 2";         
+			Text = msg;         
+			Duration = 3;     
+		})
+	end
+	i.MouseButton1Click:Connect(function()
+	
+		local plr = game:service"Players".LocalPlayer;
+		local tween_s = game:service"TweenService";
+		local info = TweenInfo.new(20,Enum.EasingStyle.Quad);
+		function tp(...)
+			local tic_k = tick();
+			local params = {...};
+			local cframe = CFrame.new(params[1],params[2],params[3]);
+			local tween,err = pcall(function()
+				local tween = tween_s:Create(plr.Character["HumanoidRootPart"],info,{CFrame=cframe});
+				tween:Play();
+			end)
+			if not tween then return err end
+		end
+		tp(-6.15831, -534.578, -20.9659);
+			notify("Teleporting, please wait")
+	end)
+end
+coroutine.wrap(LIGBKM_fake_script)()
+local function VMUJ_fake_script() -- btn2_3.LocalScript 
+	local script = Instance.new('LocalScript', btn2_3)
+
+	local i = script.Parent
+	function notify(msg)
+		game.StarterGui:SetCore("SendNotification", {
+			Title = "Mining simulator 2";         
+			Text = msg;         
+			Duration = 3;     
+		})
+	end
+	i.MouseButton1Click:Connect(function()
+	
+		local plr = game:service"Players".LocalPlayer;
+		local tween_s = game:service"TweenService";
+		local info = TweenInfo.new(20,Enum.EasingStyle.Quad);
+		function tp(...)
+			local tic_k = tick();
+			local params = {...};
+			local cframe = CFrame.new(params[1],params[2],params[3]);
+			local tween,err = pcall(function()
+				local tween = tween_s:Create(plr.Character["HumanoidRootPart"],info,{CFrame=cframe});
+				tween:Play();
+			end)
+			if not tween then return err end
+		end
+		tp(-6.44576311, -2034.57971, -23.562561, 0.998951793, 0.0241160113, 0.0389022306, -0.0272085052, 0.996340454, 0.0810282975, -0.0368057117, -0.0820018053, 0.995952249);
+		notify("Teleporting, please wait")
+	end)
+end
+coroutine.wrap(VMUJ_fake_script)()
+local function IGKEJM_fake_script() -- btn3_2.LocalScript 
+	local script = Instance.new('LocalScript', btn3_2)
+
+	local i = script.Parent
+	function notify(msg)
+		game.StarterGui:SetCore("SendNotification", {
+			Title = "Mining simulator 2";         
+			Text = msg;         
+			Duration = 3;     
+		})
+	end
+	i.MouseButton1Click:Connect(function()
+	
+		local plr = game:service"Players".LocalPlayer;
+		local tween_s = game:service"TweenService";
+		local info = TweenInfo.new(20,Enum.EasingStyle.Quad);
+		function tp(...)
+			local tic_k = tick();
+			local params = {...};
+			local cframe = CFrame.new(params[1],params[2],params[3]);
+			local tween,err = pcall(function()
+				local tween = tween_s:Create(plr.Character["HumanoidRootPart"],info,{CFrame=cframe});
+				tween:Play();
+			end)
+			if not tween then return err end
+		end
+		tp(-4.85861254, -3834.58105, -22.6843395, -0.901812971, 0.0179100484, -0.431755215, -0.022916289, 0.995752752, 0.0891712755, 0.431518376, 0.0903100073, -0.897572279);
+	end)
+end
+coroutine.wrap(IGKEJM_fake_script)()
+local function SEFTQB_fake_script() -- btn4_2.LocalScript 
+	local script = Instance.new('LocalScript', btn4_2)
+
+	local i = script.Parent
+	function notify(msg)
+		game.StarterGui:SetCore("SendNotification", {
+			Title = "Mining simulator 2";         
+			Text = msg;         
+			Duration = 3;     
+		})
+	end
+	i.MouseButton1Click:Connect(function()
+	
+		local plr = game:service"Players".LocalPlayer;
+		local tween_s = game:service"TweenService";
+		local info = TweenInfo.new(20,Enum.EasingStyle.Quad);
+		function tp(...)
+			local tic_k = tick();
+			local params = {...};
+			local cframe = CFrame.new(params[1],params[2],params[3]);
+			local tween,err = pcall(function()
+				local tween = tween_s:Create(plr.Character["HumanoidRootPart"],info,{CFrame=cframe});
+				tween:Play();
+			end)
+			if not tween then return err end
+		end
+		tp(-6.45062542, -5634.58057, -23.5676804, 0.999183536, 0.0224117562, 0.0336110741, -0.0251770783, 0.996127009, 0.0842451304, -0.0315927453, -0.0850225687, 0.995877922);
+	notify("Teleporting, please wait")
+	end)
+end
+coroutine.wrap(SEFTQB_fake_script)()
+local function RPIPROV_fake_script() -- btn5_2.LocalScript 
+	local script = Instance.new('LocalScript', btn5_2)
+
+	local i = script.Parent
+	function notify(msg)
+		game.StarterGui:SetCore("SendNotification", {
+			Title = "Mining simulator 2";         
+			Text = msg;         
+			Duration = 3;     
+		})
+	end
+	i.MouseButton1Click:Connect(function()
+	
+		local plr = game:service"Players".LocalPlayer;
+		local tween_s = game:service"TweenService";
+		local info = TweenInfo.new(20,Enum.EasingStyle.Quad);
+		function tp(...)
+			local tic_k = tick();
+			local params = {...};
+			local cframe = CFrame.new(params[1],params[2],params[3]);
+			local tween,err = pcall(function()
+				local tween = tween_s:Create(plr.Character["HumanoidRootPart"],info,{CFrame=cframe});
+				tween:Play();
+			end)
+			if not tween then return err end
+		end
+		tp(-2.49012494, -7434.59375, -18.3830814, -0.999535918, -0.024166476, 0.0185390096, -0.0225655288, 0.99636209, 0.0821807683, -0.0204576571, 0.0817242563, -0.996445);
+		notify("Teleporting, please wait")
+	end)
+end
+coroutine.wrap(RPIPROV_fake_script)()
+local function JIWCN_fake_script() -- btn6_2.LocalScript 
+	local script = Instance.new('LocalScript', btn6_2)
+
+	local i = script.Parent
+	function notify(msg)
+		game.StarterGui:SetCore("SendNotification", {
+			Title = "Mining simulator 2";         
+			Text = msg;         
+			Duration = 3;     
+		})
+	end
+	i.MouseButton1Click:Connect(function()
+	
+		local plr = game:service"Players".LocalPlayer;
+		local tween_s = game:service"TweenService";
+		local info = TweenInfo.new(20,Enum.EasingStyle.Quad);
+		function tp(...)
+			local tic_k = tick();
+			local params = {...};
+			local cframe = CFrame.new(params[1],params[2],params[3]);
+			local tween,err = pcall(function()
+				local tween = tween_s:Create(plr.Character["HumanoidRootPart"],info,{CFrame=cframe});
+				tween:Play();
+			end)
+			if not tween then return err end
+		end
+		tp(-6.4533453, -9234.58203, -23.5992279, 0.99904716, 0.0218333323, 0.0377873629, -0.0244683754, 0.997195005, 0.0707360953, -0.036136888, -0.0715932548, 0.996779084);
+		notify("Teleporting, please wait")
+	end)
+end
+coroutine.wrap(JIWCN_fake_script)()
