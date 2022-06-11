@@ -14,82 +14,107 @@ local UICorner_3 = Instance.new("UICorner")
 local UIGradient_2 = Instance.new("UIGradient")
 local bt3 = Instance.new("TextButton")
 local UICorner_4 = Instance.new("UICorner")
+local bt4 = Instance.new("TextButton")
+local UICorner_5 = Instance.new("UICorner")
 local side = Instance.new("Frame")
 local Button1 = Instance.new("TextButton")
-local UICorner_5 = Instance.new("UICorner")
 local UICorner_6 = Instance.new("UICorner")
-local Button2 = Instance.new("TextButton")
 local UICorner_7 = Instance.new("UICorner")
-local Button3 = Instance.new("TextButton")
+local Button2 = Instance.new("TextButton")
 local UICorner_8 = Instance.new("UICorner")
+local Button3 = Instance.new("TextButton")
+local UICorner_9 = Instance.new("UICorner")
 local UIGradient_3 = Instance.new("UIGradient")
 local Button4 = Instance.new("TextButton")
-local UICorner_9 = Instance.new("UICorner")
-local Button5 = Instance.new("TextButton")
 local UICorner_10 = Instance.new("UICorner")
+local Button5 = Instance.new("TextButton")
+local UICorner_11 = Instance.new("UICorner")
+local Button6 = Instance.new("TextButton")
+local UICorner_12 = Instance.new("UICorner")
 local change = Instance.new("TextLabel")
-local change_2 = Instance.new("TextLabel")
 local th = Instance.new("Frame")
 local UIGradient_4 = Instance.new("UIGradient")
-local UICorner_11 = Instance.new("UICorner")
-local btn2 = Instance.new("TextButton")
-local UICorner_12 = Instance.new("UICorner")
-local btn1 = Instance.new("TextButton")
 local UICorner_13 = Instance.new("UICorner")
+local btn2 = Instance.new("TextButton")
+local UICorner_14 = Instance.new("UICorner")
+local btn1 = Instance.new("TextButton")
+local UICorner_15 = Instance.new("UICorner")
 local fo = Instance.new("Frame")
 local UIGradient_5 = Instance.new("UIGradient")
-local UICorner_14 = Instance.new("UICorner")
-local btn1_2 = Instance.new("TextButton")
-local UICorner_15 = Instance.new("UICorner")
-local btn2_2 = Instance.new("TextButton")
 local UICorner_16 = Instance.new("UICorner")
-local btn9 = Instance.new("TextButton")
+local btn1_2 = Instance.new("TextButton")
 local UICorner_17 = Instance.new("UICorner")
-local btn8 = Instance.new("TextButton")
+local btn2_2 = Instance.new("TextButton")
 local UICorner_18 = Instance.new("UICorner")
-local btn7 = Instance.new("TextButton")
+local btn9 = Instance.new("TextButton")
 local UICorner_19 = Instance.new("UICorner")
-local btn6 = Instance.new("TextButton")
+local btn8 = Instance.new("TextButton")
 local UICorner_20 = Instance.new("UICorner")
-local btn5 = Instance.new("TextButton")
+local btn7 = Instance.new("TextButton")
 local UICorner_21 = Instance.new("UICorner")
-local btn4 = Instance.new("TextButton")
+local btn6 = Instance.new("TextButton")
 local UICorner_22 = Instance.new("UICorner")
-local btn3 = Instance.new("TextButton")
+local btn5 = Instance.new("TextButton")
 local UICorner_23 = Instance.new("UICorner")
-local Frame = Instance.new("Frame")
+local btn4 = Instance.new("TextButton")
 local UICorner_24 = Instance.new("UICorner")
+local btn3 = Instance.new("TextButton")
+local UICorner_25 = Instance.new("UICorner")
+local Frame = Instance.new("Frame")
+local UICorner_26 = Instance.new("UICorner")
 local UIGradient_6 = Instance.new("UIGradient")
 local bar = Instance.new("Frame")
-local UICorner_25 = Instance.new("UICorner")
+local UICorner_27 = Instance.new("UICorner")
 local UIGradient_7 = Instance.new("UIGradient")
 local TextLabel = Instance.new("TextLabel")
 local btn10 = Instance.new("TextButton")
-local UICorner_26 = Instance.new("UICorner")
+local UICorner_28 = Instance.new("UICorner")
 local TextLabel_2 = Instance.new("TextLabel")
 local bar_2 = Instance.new("Frame")
-local UICorner_27 = Instance.new("UICorner")
+local UICorner_29 = Instance.new("UICorner")
 local UIGradient_8 = Instance.new("UIGradient")
 local close = Instance.new("ImageButton")
 local TextLabel_3 = Instance.new("TextLabel")
 local close_2 = Instance.new("ImageButton")
+local si = Instance.new("Frame")
+local UIGradient_9 = Instance.new("UIGradient")
+local UICorner_30 = Instance.new("UICorner")
+local btn1_3 = Instance.new("TextButton")
+local UICorner_31 = Instance.new("UICorner")
+local btn2_3 = Instance.new("TextButton")
+local UICorner_32 = Instance.new("UICorner")
+local btn3_2 = Instance.new("TextButton")
+local UICorner_33 = Instance.new("UICorner")
+local btn4_2 = Instance.new("TextButton")
+local UICorner_34 = Instance.new("UICorner")
+local btn5_2 = Instance.new("TextButton")
+local UICorner_35 = Instance.new("UICorner")
+local fi = Instance.new("Frame")
+local UIGradient_10 = Instance.new("UIGradient")
+local UICorner_36 = Instance.new("UICorner")
+local btn1_4 = Instance.new("TextButton")
+local UICorner_37 = Instance.new("UICorner")
+local btn2_4 = Instance.new("TextButton")
+local UICorner_38 = Instance.new("UICorner")
+local btn3_3 = Instance.new("TextButton")
+local UICorner_39 = Instance.new("UICorner")
+local btn4_3 = Instance.new("TextButton")
+local UICorner_40 = Instance.new("UICorner")
+local btn5_3 = Instance.new("TextButton")
+local UICorner_41 = Instance.new("UICorner")
+local btn6_2 = Instance.new("TextButton")
+local UICorner_42 = Instance.new("UICorner")
+local btn6_3 = Instance.new("TextButton")
+local UICorner_43 = Instance.new("UICorner")
+local btn7_2 = Instance.new("TextButton")
+local UICorner_44 = Instance.new("UICorner")
+local btn8_2 = Instance.new("TextButton")
+local UICorner_45 = Instance.new("UICorner")
+local btn9_2 = Instance.new("TextButton")
+local UICorner_46 = Instance.new("UICorner")
+local change_2 = Instance.new("TextLabel")
 local change_3 = Instance.new("TextLabel")
 local change_4 = Instance.new("TextLabel")
-local fi = Instance.new("Frame")
-local UIGradient_9 = Instance.new("UIGradient")
-local UICorner_28 = Instance.new("UICorner")
-local btn1_3 = Instance.new("TextButton")
-local UICorner_29 = Instance.new("UICorner")
-local btn2_3 = Instance.new("TextButton")
-local UICorner_30 = Instance.new("UICorner")
-local btn3_2 = Instance.new("TextButton")
-local UICorner_31 = Instance.new("UICorner")
-local btn4_2 = Instance.new("TextButton")
-local UICorner_32 = Instance.new("UICorner")
-local btn5_2 = Instance.new("TextButton")
-local UICorner_33 = Instance.new("UICorner")
-local btn6_2 = Instance.new("TextButton")
-local UICorner_34 = Instance.new("UICorner")
 
 --Properties:
 
@@ -158,6 +183,22 @@ bt3.TextWrapped = true
 UICorner_4.CornerRadius = UDim.new(0, 4)
 UICorner_4.Parent = bt3
 
+bt4.Name = "bt4"
+bt4.Parent = tw
+bt4.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
+bt4.Position = UDim2.new(0.0579999983, 0, 0.279000014, 0)
+bt4.Size = UDim2.new(0, 293, 0, 30)
+bt4.ZIndex = 10002
+bt4.Font = Enum.Font.Cartoon
+bt4.Text = "Discover all areas (Cyber planet)"
+bt4.TextColor3 = Color3.fromRGB(255, 255, 255)
+bt4.TextScaled = true
+bt4.TextSize = 23.000
+bt4.TextWrapped = true
+
+UICorner_5.CornerRadius = UDim.new(0, 4)
+UICorner_5.Parent = bt4
+
 side.Name = "side"
 side.Parent = Main
 side.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -178,11 +219,11 @@ Button1.TextColor3 = Color3.fromRGB(255, 255, 255)
 Button1.TextSize = 22.000
 Button1.TextWrapped = true
 
-UICorner_5.CornerRadius = UDim.new(0, 4)
-UICorner_5.Parent = Button1
-
 UICorner_6.CornerRadius = UDim.new(0, 4)
-UICorner_6.Parent = side
+UICorner_6.Parent = Button1
+
+UICorner_7.CornerRadius = UDim.new(0, 4)
+UICorner_7.Parent = side
 
 Button2.Name = "Button2"
 Button2.Parent = side
@@ -197,8 +238,8 @@ Button2.TextColor3 = Color3.fromRGB(255, 255, 255)
 Button2.TextSize = 22.000
 Button2.TextWrapped = true
 
-UICorner_7.CornerRadius = UDim.new(0, 4)
-UICorner_7.Parent = Button2
+UICorner_8.CornerRadius = UDim.new(0, 4)
+UICorner_8.Parent = Button2
 
 Button3.Name = "Button3"
 Button3.Parent = side
@@ -213,8 +254,8 @@ Button3.TextColor3 = Color3.fromRGB(255, 255, 255)
 Button3.TextSize = 22.000
 Button3.TextWrapped = true
 
-UICorner_8.CornerRadius = UDim.new(0, 4)
-UICorner_8.Parent = Button3
+UICorner_9.CornerRadius = UDim.new(0, 4)
+UICorner_9.Parent = Button3
 
 UIGradient_3.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(2, 2, 2)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(2, 2, 2))}
 UIGradient_3.Parent = side
@@ -232,8 +273,8 @@ Button4.TextColor3 = Color3.fromRGB(255, 255, 255)
 Button4.TextSize = 22.000
 Button4.TextWrapped = true
 
-UICorner_9.CornerRadius = UDim.new(0, 4)
-UICorner_9.Parent = Button4
+UICorner_10.CornerRadius = UDim.new(0, 4)
+UICorner_10.Parent = Button4
 
 Button5.Name = "Button5"
 Button5.Parent = side
@@ -241,15 +282,31 @@ Button5.BackgroundColor3 = Color3.fromRGB(26, 26, 26)
 Button5.BorderSizePixel = 0
 Button5.Position = UDim2.new(0.0603448264, 0, 0.334319532, 0)
 Button5.Size = UDim2.new(0, 101, 0, 28)
-Button5.ZIndex = 10
+Button5.ZIndex = 10006
 Button5.Font = Enum.Font.Cartoon
 Button5.Text = "Teleport"
 Button5.TextColor3 = Color3.fromRGB(255, 255, 255)
 Button5.TextSize = 22.000
 Button5.TextWrapped = true
 
-UICorner_10.CornerRadius = UDim.new(0, 4)
-UICorner_10.Parent = Button5
+UICorner_11.CornerRadius = UDim.new(0, 4)
+UICorner_11.Parent = Button5
+
+Button6.Name = "Button6"
+Button6.Parent = side
+Button6.BackgroundColor3 = Color3.fromRGB(26, 26, 26)
+Button6.BorderSizePixel = 0
+Button6.Position = UDim2.new(0.0603448264, 0, 0.434911251, 0)
+Button6.Size = UDim2.new(0, 101, 0, 28)
+Button6.ZIndex = 1000000000
+Button6.Font = Enum.Font.Cartoon
+Button6.Text = "Chests"
+Button6.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button6.TextSize = 22.000
+Button6.TextWrapped = true
+
+UICorner_12.CornerRadius = UDim.new(0, 4)
+UICorner_12.Parent = Button6
 
 change.Name = "change"
 change.Parent = Main
@@ -265,20 +322,6 @@ change.TextSize = 20.000
 change.TextStrokeTransparency = 0.000
 change.TextWrapped = true
 
-change_2.Name = "change"
-change_2.Parent = Main
-change_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-change_2.BackgroundTransparency = 1.000
-change_2.Position = UDim2.new(0.259507835, 0, 0.263157904, 0)
-change_2.Size = UDim2.new(0, 331, 0, 43)
-change_2.ZIndex = 10000
-change_2.Font = Enum.Font.Cartoon
-change_2.Text = "- Auto Open Eggs"
-change_2.TextColor3 = Color3.fromRGB(255, 255, 255)
-change_2.TextSize = 20.000
-change_2.TextStrokeTransparency = 0.000
-change_2.TextWrapped = true
-
 th.Name = "th"
 th.Parent = Main
 th.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -292,8 +335,8 @@ th.ZIndex = 10003
 UIGradient_4.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(26, 26, 26)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(26, 26, 26))}
 UIGradient_4.Parent = th
 
-UICorner_11.CornerRadius = UDim.new(0, 4)
-UICorner_11.Parent = th
+UICorner_13.CornerRadius = UDim.new(0, 4)
+UICorner_13.Parent = th
 
 btn2.Name = "btn2"
 btn2.Parent = th
@@ -307,8 +350,8 @@ btn2.TextColor3 = Color3.fromRGB(255, 255, 255)
 btn2.TextSize = 23.000
 btn2.TextWrapped = true
 
-UICorner_12.CornerRadius = UDim.new(0, 4)
-UICorner_12.Parent = btn2
+UICorner_14.CornerRadius = UDim.new(0, 4)
+UICorner_14.Parent = btn2
 
 btn1.Name = "btn1"
 btn1.Parent = th
@@ -322,8 +365,8 @@ btn1.TextColor3 = Color3.fromRGB(255, 255, 255)
 btn1.TextSize = 23.000
 btn1.TextWrapped = true
 
-UICorner_13.CornerRadius = UDim.new(0, 4)
-UICorner_13.Parent = btn1
+UICorner_15.CornerRadius = UDim.new(0, 4)
+UICorner_15.Parent = btn1
 
 fo.Name = "fo"
 fo.Parent = Main
@@ -338,8 +381,8 @@ fo.ZIndex = 10004
 UIGradient_5.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(26, 26, 26)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(26, 26, 26))}
 UIGradient_5.Parent = fo
 
-UICorner_14.CornerRadius = UDim.new(0, 4)
-UICorner_14.Parent = fo
+UICorner_16.CornerRadius = UDim.new(0, 4)
+UICorner_16.Parent = fo
 
 btn1_2.Name = "btn1"
 btn1_2.Parent = fo
@@ -354,8 +397,8 @@ btn1_2.TextScaled = true
 btn1_2.TextSize = 23.000
 btn1_2.TextWrapped = true
 
-UICorner_15.CornerRadius = UDim.new(0, 4)
-UICorner_15.Parent = btn1_2
+UICorner_17.CornerRadius = UDim.new(0, 4)
+UICorner_17.Parent = btn1_2
 
 btn2_2.Name = "btn2"
 btn2_2.Parent = fo
@@ -370,8 +413,8 @@ btn2_2.TextScaled = true
 btn2_2.TextSize = 23.000
 btn2_2.TextWrapped = true
 
-UICorner_16.CornerRadius = UDim.new(0, 4)
-UICorner_16.Parent = btn2_2
+UICorner_18.CornerRadius = UDim.new(0, 4)
+UICorner_18.Parent = btn2_2
 
 btn9.Name = "btn9"
 btn9.Parent = fo
@@ -385,8 +428,8 @@ btn9.TextColor3 = Color3.fromRGB(255, 255, 255)
 btn9.TextSize = 23.000
 btn9.TextWrapped = true
 
-UICorner_17.CornerRadius = UDim.new(0, 4)
-UICorner_17.Parent = btn9
+UICorner_19.CornerRadius = UDim.new(0, 4)
+UICorner_19.Parent = btn9
 
 btn8.Name = "btn8"
 btn8.Parent = fo
@@ -400,8 +443,8 @@ btn8.TextColor3 = Color3.fromRGB(255, 255, 255)
 btn8.TextSize = 23.000
 btn8.TextWrapped = true
 
-UICorner_18.CornerRadius = UDim.new(0, 4)
-UICorner_18.Parent = btn8
+UICorner_20.CornerRadius = UDim.new(0, 4)
+UICorner_20.Parent = btn8
 
 btn7.Name = "btn7"
 btn7.Parent = fo
@@ -416,8 +459,8 @@ btn7.TextScaled = true
 btn7.TextSize = 23.000
 btn7.TextWrapped = true
 
-UICorner_19.CornerRadius = UDim.new(0, 4)
-UICorner_19.Parent = btn7
+UICorner_21.CornerRadius = UDim.new(0, 4)
+UICorner_21.Parent = btn7
 
 btn6.Name = "btn6"
 btn6.Parent = fo
@@ -432,8 +475,8 @@ btn6.TextScaled = true
 btn6.TextSize = 23.000
 btn6.TextWrapped = true
 
-UICorner_20.CornerRadius = UDim.new(0, 4)
-UICorner_20.Parent = btn6
+UICorner_22.CornerRadius = UDim.new(0, 4)
+UICorner_22.Parent = btn6
 
 btn5.Name = "btn5"
 btn5.Parent = fo
@@ -448,8 +491,8 @@ btn5.TextScaled = true
 btn5.TextSize = 23.000
 btn5.TextWrapped = true
 
-UICorner_21.CornerRadius = UDim.new(0, 4)
-UICorner_21.Parent = btn5
+UICorner_23.CornerRadius = UDim.new(0, 4)
+UICorner_23.Parent = btn5
 
 btn4.Name = "btn4"
 btn4.Parent = fo
@@ -464,8 +507,8 @@ btn4.TextScaled = true
 btn4.TextSize = 23.000
 btn4.TextWrapped = true
 
-UICorner_22.CornerRadius = UDim.new(0, 4)
-UICorner_22.Parent = btn4
+UICorner_24.CornerRadius = UDim.new(0, 4)
+UICorner_24.Parent = btn4
 
 btn3.Name = "btn3"
 btn3.Parent = fo
@@ -480,8 +523,8 @@ btn3.TextScaled = true
 btn3.TextSize = 23.000
 btn3.TextWrapped = true
 
-UICorner_23.CornerRadius = UDim.new(0, 4)
-UICorner_23.Parent = btn3
+UICorner_25.CornerRadius = UDim.new(0, 4)
+UICorner_25.Parent = btn3
 
 Frame.Parent = fo
 Frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -489,8 +532,8 @@ Frame.Position = UDim2.new(1.00000012, 0, -0.12462908, 0)
 Frame.Size = UDim2.new(0, 155, 0, 380)
 Frame.ZIndex = 10004
 
-UICorner_24.CornerRadius = UDim.new(0, 4)
-UICorner_24.Parent = Frame
+UICorner_26.CornerRadius = UDim.new(0, 4)
+UICorner_26.Parent = Frame
 
 UIGradient_6.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(26, 26, 26)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(26, 26, 26))}
 UIGradient_6.Parent = Frame
@@ -501,8 +544,8 @@ bar.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 bar.Size = UDim2.new(0, 155, 0, 42)
 bar.ZIndex = 10004
 
-UICorner_25.CornerRadius = UDim.new(0, 4)
-UICorner_25.Parent = bar
+UICorner_27.CornerRadius = UDim.new(0, 4)
+UICorner_27.Parent = bar
 
 UIGradient_7.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(2, 2, 2)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(2, 2, 2))}
 UIGradient_7.Parent = bar
@@ -532,8 +575,8 @@ btn10.TextScaled = true
 btn10.TextSize = 23.000
 btn10.TextWrapped = true
 
-UICorner_26.CornerRadius = UDim.new(0, 4)
-UICorner_26.Parent = btn10
+UICorner_28.CornerRadius = UDim.new(0, 4)
+UICorner_28.Parent = btn10
 
 TextLabel_2.Parent = fo
 TextLabel_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -553,8 +596,8 @@ bar_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 bar_2.Size = UDim2.new(0, 447, 0, 42)
 bar_2.ZIndex = 100000
 
-UICorner_27.CornerRadius = UDim.new(0, 4)
-UICorner_27.Parent = bar_2
+UICorner_29.CornerRadius = UDim.new(0, 4)
+UICorner_29.Parent = bar_2
 
 UIGradient_8.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(2, 2, 2)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(2, 2, 2))}
 UIGradient_8.Parent = bar_2
@@ -588,33 +631,96 @@ close_2.Image = "rbxassetid://3926305904"
 close_2.ImageRectOffset = Vector2.new(284, 4)
 close_2.ImageRectSize = Vector2.new(24, 24)
 
-change_3.Name = "change"
-change_3.Parent = Main
-change_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-change_3.BackgroundTransparency = 1.000
-change_3.Position = UDim2.new(0.259507835, 0, 0.368421078, 0)
-change_3.Size = UDim2.new(0, 331, 0, 43)
-change_3.ZIndex = 10000
-change_3.Font = Enum.Font.Cartoon
-change_3.Text = "- Teleport Menu  "
-change_3.TextColor3 = Color3.fromRGB(255, 255, 255)
-change_3.TextSize = 20.000
-change_3.TextStrokeTransparency = 0.000
-change_3.TextWrapped = true
+si.Name = "si"
+si.Parent = Main
+si.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+si.BorderColor3 = Color3.fromRGB(27, 42, 53)
+si.BorderSizePixel = 0
+si.Position = UDim2.new(0.259507835, 0, 0.110526316, 0)
+si.Size = UDim2.new(0, 329, 0, 337)
+si.Visible = false
+si.ZIndex = 10006
 
-change_4.Name = "change"
-change_4.Parent = Main
-change_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-change_4.BackgroundTransparency = 1.000
-change_4.Position = UDim2.new(0.259507835, 0, 0.478947401, 0)
-change_4.Size = UDim2.new(0, 331, 0, 43)
-change_4.ZIndex = 10000
-change_4.Font = Enum.Font.Cartoon
-change_4.Text = "- Discover all areas"
-change_4.TextColor3 = Color3.fromRGB(255, 255, 255)
-change_4.TextSize = 20.000
-change_4.TextStrokeTransparency = 0.000
-change_4.TextWrapped = true
+UIGradient_9.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(26, 26, 26)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(26, 26, 26))}
+UIGradient_9.Parent = si
+
+UICorner_30.CornerRadius = UDim.new(0, 4)
+UICorner_30.Parent = si
+
+btn1_3.Name = "btn1"
+btn1_3.Parent = si
+btn1_3.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
+btn1_3.Position = UDim2.new(0.0607902743, 0, 0.0415430255, 0)
+btn1_3.Size = UDim2.new(0, 273, 0, 30)
+btn1_3.ZIndex = 10006
+btn1_3.Font = Enum.Font.Cartoon
+btn1_3.Text = "Collect all Wooden chests"
+btn1_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+btn1_3.TextSize = 23.000
+btn1_3.TextWrapped = true
+
+UICorner_31.CornerRadius = UDim.new(0, 4)
+UICorner_31.Parent = btn1_3
+
+btn2_3.Name = "btn2"
+btn2_3.Parent = si
+btn2_3.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
+btn2_3.Position = UDim2.new(0.0607902743, 0, 0.145400599, 0)
+btn2_3.Size = UDim2.new(0, 273, 0, 30)
+btn2_3.ZIndex = 10006
+btn2_3.Font = Enum.Font.Cartoon
+btn2_3.Text = "Collect all Silver chests"
+btn2_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+btn2_3.TextSize = 23.000
+btn2_3.TextWrapped = true
+
+UICorner_32.CornerRadius = UDim.new(0, 4)
+UICorner_32.Parent = btn2_3
+
+btn3_2.Name = "btn3"
+btn3_2.Parent = si
+btn3_2.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
+btn3_2.Position = UDim2.new(0.060790278, 0, 0.246290803, 0)
+btn3_2.Size = UDim2.new(0, 273, 0, 30)
+btn3_2.ZIndex = 10006
+btn3_2.Font = Enum.Font.Cartoon
+btn3_2.Text = "Collect all Gold chests"
+btn3_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+btn3_2.TextSize = 23.000
+btn3_2.TextWrapped = true
+
+UICorner_33.CornerRadius = UDim.new(0, 4)
+UICorner_33.Parent = btn3_2
+
+btn4_2.Name = "btn4"
+btn4_2.Parent = si
+btn4_2.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
+btn4_2.Position = UDim2.new(0.060790278, 0, 0.347181022, 0)
+btn4_2.Size = UDim2.new(0, 273, 0, 30)
+btn4_2.ZIndex = 10006
+btn4_2.Font = Enum.Font.Cartoon
+btn4_2.Text = "Collect all Epic chests"
+btn4_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+btn4_2.TextSize = 23.000
+btn4_2.TextWrapped = true
+
+UICorner_34.CornerRadius = UDim.new(0, 4)
+UICorner_34.Parent = btn4_2
+
+btn5_2.Name = "btn5"
+btn5_2.Parent = si
+btn5_2.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
+btn5_2.Position = UDim2.new(0.060790278, 0, 0.454005957, 0)
+btn5_2.Size = UDim2.new(0, 273, 0, 30)
+btn5_2.ZIndex = 10006
+btn5_2.Font = Enum.Font.Cartoon
+btn5_2.Text = "Collect all Legendary chests"
+btn5_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+btn5_2.TextSize = 23.000
+btn5_2.TextWrapped = true
+
+UICorner_35.CornerRadius = UDim.new(0, 4)
+UICorner_35.Parent = btn5_2
 
 fi.Name = "fi"
 fi.Parent = Main
@@ -626,86 +732,86 @@ fi.Size = UDim2.new(0, 329, 0, 337)
 fi.Visible = false
 fi.ZIndex = 10005
 
-UIGradient_9.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(26, 26, 26)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(26, 26, 26))}
-UIGradient_9.Parent = fi
+UIGradient_10.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(26, 26, 26)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(26, 26, 26))}
+UIGradient_10.Parent = fi
 
-UICorner_28.CornerRadius = UDim.new(0, 4)
-UICorner_28.Parent = fi
+UICorner_36.CornerRadius = UDim.new(0, 4)
+UICorner_36.Parent = fi
 
-btn1_3.Name = "btn1"
-btn1_3.Parent = fi
-btn1_3.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
-btn1_3.Position = UDim2.new(0.0607902743, 0, 0.0415430255, 0)
-btn1_3.Size = UDim2.new(0, 273, 0, 30)
-btn1_3.ZIndex = 10005
-btn1_3.Font = Enum.Font.Cartoon
-btn1_3.Text = "Teleport to hidden treasure"
-btn1_3.TextColor3 = Color3.fromRGB(255, 255, 255)
-btn1_3.TextSize = 23.000
-btn1_3.TextWrapped = true
+btn1_4.Name = "btn1"
+btn1_4.Parent = fi
+btn1_4.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
+btn1_4.Position = UDim2.new(0.0607902743, 0, 0.0415430255, 0)
+btn1_4.Size = UDim2.new(0, 273, 0, 30)
+btn1_4.ZIndex = 10005
+btn1_4.Font = Enum.Font.Cartoon
+btn1_4.Text = "Teleport to hidden treasure"
+btn1_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+btn1_4.TextSize = 23.000
+btn1_4.TextWrapped = true
 
-UICorner_29.CornerRadius = UDim.new(0, 4)
-UICorner_29.Parent = btn1_3
+UICorner_37.CornerRadius = UDim.new(0, 4)
+UICorner_37.Parent = btn1_4
 
-btn2_3.Name = "btn2"
-btn2_3.Parent = fi
-btn2_3.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
-btn2_3.Position = UDim2.new(0.0607902743, 0, 0.145400599, 0)
-btn2_3.Size = UDim2.new(0, 273, 0, 30)
-btn2_3.ZIndex = 10005
-btn2_3.Font = Enum.Font.Cartoon
-btn2_3.Text = "Teleport to frozen depths"
-btn2_3.TextColor3 = Color3.fromRGB(255, 255, 255)
-btn2_3.TextSize = 23.000
-btn2_3.TextWrapped = true
+btn2_4.Name = "btn2"
+btn2_4.Parent = fi
+btn2_4.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
+btn2_4.Position = UDim2.new(0.0607902743, 0, 0.145400599, 0)
+btn2_4.Size = UDim2.new(0, 273, 0, 30)
+btn2_4.ZIndex = 10005
+btn2_4.Font = Enum.Font.Cartoon
+btn2_4.Text = "Teleport to frozen depths"
+btn2_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+btn2_4.TextSize = 23.000
+btn2_4.TextWrapped = true
 
-UICorner_30.CornerRadius = UDim.new(0, 4)
-UICorner_30.Parent = btn2_3
+UICorner_38.CornerRadius = UDim.new(0, 4)
+UICorner_38.Parent = btn2_4
 
-btn3_2.Name = "btn3"
-btn3_2.Parent = fi
-btn3_2.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
-btn3_2.Position = UDim2.new(0.0607902743, 0, 0.246290803, 0)
-btn3_2.Size = UDim2.new(0, 273, 0, 30)
-btn3_2.ZIndex = 10005
-btn3_2.Font = Enum.Font.Cartoon
-btn3_2.Text = "Teleport to gloomy basin"
-btn3_2.TextColor3 = Color3.fromRGB(255, 255, 255)
-btn3_2.TextSize = 23.000
-btn3_2.TextWrapped = true
+btn3_3.Name = "btn3"
+btn3_3.Parent = fi
+btn3_3.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
+btn3_3.Position = UDim2.new(0.0607902743, 0, 0.246290803, 0)
+btn3_3.Size = UDim2.new(0, 273, 0, 30)
+btn3_3.ZIndex = 10005
+btn3_3.Font = Enum.Font.Cartoon
+btn3_3.Text = "Teleport to gloomy basin"
+btn3_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+btn3_3.TextSize = 23.000
+btn3_3.TextWrapped = true
 
-UICorner_31.CornerRadius = UDim.new(0, 4)
-UICorner_31.Parent = btn3_2
+UICorner_39.CornerRadius = UDim.new(0, 4)
+UICorner_39.Parent = btn3_3
 
-btn4_2.Name = "btn4"
-btn4_2.Parent = fi
-btn4_2.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
-btn4_2.Position = UDim2.new(0.0610000007, 0, 0.349000007, 0)
-btn4_2.Size = UDim2.new(0, 273, 0, 30)
-btn4_2.ZIndex = 10005
-btn4_2.Font = Enum.Font.Cartoon
-btn4_2.Text = "Teleport to molten core"
-btn4_2.TextColor3 = Color3.fromRGB(255, 255, 255)
-btn4_2.TextSize = 23.000
-btn4_2.TextWrapped = true
+btn4_3.Name = "btn4"
+btn4_3.Parent = fi
+btn4_3.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
+btn4_3.Position = UDim2.new(0.0610000007, 0, 0.349000007, 0)
+btn4_3.Size = UDim2.new(0, 273, 0, 30)
+btn4_3.ZIndex = 10005
+btn4_3.Font = Enum.Font.Cartoon
+btn4_3.Text = "Teleport to molten core"
+btn4_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+btn4_3.TextSize = 23.000
+btn4_3.TextWrapped = true
 
-UICorner_32.CornerRadius = UDim.new(0, 4)
-UICorner_32.Parent = btn4_2
+UICorner_40.CornerRadius = UDim.new(0, 4)
+UICorner_40.Parent = btn4_3
 
-btn5_2.Name = "btn5"
-btn5_2.Parent = fi
-btn5_2.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
-btn5_2.Position = UDim2.new(0.0610000007, 0, 0.451999992, 0)
-btn5_2.Size = UDim2.new(0, 273, 0, 30)
-btn5_2.ZIndex = 10005
-btn5_2.Font = Enum.Font.Cartoon
-btn5_2.Text = "Teleport to the underworld"
-btn5_2.TextColor3 = Color3.fromRGB(255, 255, 255)
-btn5_2.TextSize = 23.000
-btn5_2.TextWrapped = true
+btn5_3.Name = "btn5"
+btn5_3.Parent = fi
+btn5_3.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
+btn5_3.Position = UDim2.new(0.0610000007, 0, 0.451999992, 0)
+btn5_3.Size = UDim2.new(0, 273, 0, 30)
+btn5_3.ZIndex = 10005
+btn5_3.Font = Enum.Font.Cartoon
+btn5_3.Text = "Teleport to the underworld"
+btn5_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+btn5_3.TextSize = 23.000
+btn5_3.TextWrapped = true
 
-UICorner_33.CornerRadius = UDim.new(0, 4)
-UICorner_33.Parent = btn5_2
+UICorner_41.CornerRadius = UDim.new(0, 4)
+UICorner_41.Parent = btn5_3
 
 btn6_2.Name = "btn6"
 btn6_2.Parent = fi
@@ -719,12 +825,114 @@ btn6_2.TextColor3 = Color3.fromRGB(255, 255, 255)
 btn6_2.TextSize = 23.000
 btn6_2.TextWrapped = true
 
-UICorner_34.CornerRadius = UDim.new(0, 4)
-UICorner_34.Parent = btn6_2
+UICorner_42.CornerRadius = UDim.new(0, 4)
+UICorner_42.Parent = btn6_2
+
+btn6_3.Name = "btn6"
+btn6_3.Parent = fi
+btn6_3.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
+btn6_3.Position = UDim2.new(0.0610000007, 0, 0.555000007, 0)
+btn6_3.Size = UDim2.new(0, 273, 0, 30)
+btn6_3.ZIndex = 10005
+btn6_3.Font = Enum.Font.Cartoon
+btn6_3.Text = "Teleport to crystal cavern"
+btn6_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+btn6_3.TextSize = 23.000
+btn6_3.TextWrapped = true
+
+UICorner_43.CornerRadius = UDim.new(0, 4)
+UICorner_43.Parent = btn6_3
+
+btn7_2.Name = "btn7"
+btn7_2.Parent = fi
+btn7_2.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
+btn7_2.Position = UDim2.new(0.0579999983, 0, 0.657999992, 0)
+btn7_2.Size = UDim2.new(0, 273, 0, 30)
+btn7_2.ZIndex = 10005
+btn7_2.Font = Enum.Font.Cartoon
+btn7_2.Text = "Teleport to cyber sewers"
+btn7_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+btn7_2.TextSize = 23.000
+btn7_2.TextWrapped = true
+
+UICorner_44.CornerRadius = UDim.new(0, 4)
+UICorner_44.Parent = btn7_2
+
+btn8_2.Name = "btn8"
+btn8_2.Parent = fi
+btn8_2.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
+btn8_2.Position = UDim2.new(0.0610000007, 0, 0.760999978, 0)
+btn8_2.Size = UDim2.new(0, 273, 0, 30)
+btn8_2.ZIndex = 10005
+btn8_2.Font = Enum.Font.Cartoon
+btn8_2.Text = "Teleport to cosmic abyss"
+btn8_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+btn8_2.TextSize = 23.000
+btn8_2.TextWrapped = true
+
+UICorner_45.CornerRadius = UDim.new(0, 4)
+UICorner_45.Parent = btn8_2
+
+btn9_2.Name = "btn9"
+btn9_2.Parent = fi
+btn9_2.BackgroundColor3 = Color3.fromRGB(2, 2, 2)
+btn9_2.Position = UDim2.new(0.0610000007, 0, 0.864000022, 0)
+btn9_2.Size = UDim2.new(0, 273, 0, 30)
+btn9_2.ZIndex = 10005
+btn9_2.Font = Enum.Font.Cartoon
+btn9_2.Text = "Teleport to cyber core"
+btn9_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+btn9_2.TextSize = 23.000
+btn9_2.TextWrapped = true
+
+UICorner_46.CornerRadius = UDim.new(0, 4)
+UICorner_46.Parent = btn9_2
+
+change_2.Name = "change"
+change_2.Parent = Main
+change_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+change_2.BackgroundTransparency = 1.000
+change_2.Position = UDim2.new(0.259507835, 0, 0.263157904, 0)
+change_2.Size = UDim2.new(0, 331, 0, 43)
+change_2.ZIndex = 10000
+change_2.Font = Enum.Font.Cartoon
+change_2.Text = "- Chest Menu"
+change_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+change_2.TextSize = 20.000
+change_2.TextStrokeTransparency = 0.000
+change_2.TextWrapped = true
+
+change_3.Name = "change"
+change_3.Parent = Main
+change_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+change_3.BackgroundTransparency = 1.000
+change_3.Position = UDim2.new(0.259507835, 0, 0.368421078, 0)
+change_3.Size = UDim2.new(0, 331, 0, 43)
+change_3.ZIndex = 10000
+change_3.Font = Enum.Font.Cartoon
+change_3.Text = "   - New Teleports"
+change_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+change_3.TextSize = 20.000
+change_3.TextStrokeTransparency = 0.000
+change_3.TextWrapped = true
+
+change_4.Name = "change"
+change_4.Parent = Main
+change_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+change_4.BackgroundTransparency = 1.000
+change_4.Position = UDim2.new(0.46085012, 0, 0.476315796, 0)
+change_4.Size = UDim2.new(0, 203, 0, 43)
+change_4.ZIndex = 10000
+change_4.Font = Enum.Font.Cartoon
+change_4.Text = "- Discover all worlds (cyber planet)"
+change_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+change_4.TextSize = 20.000
+change_4.TextStrokeTransparency = 0.000
+change_4.TextWrapped = true
 
 -- Scripts:
 
-local function PDDVRN_fake_script() -- bt1.LocalScript 
+local function MWGEPSL_fake_script() -- bt1.LocalScript 
 	local script = Instance.new('LocalScript', bt1)
 
 	local i = script.Parent
@@ -747,8 +955,8 @@ local function PDDVRN_fake_script() -- bt1.LocalScript
 		end
 	end)
 end
-coroutine.wrap(PDDVRN_fake_script)()
-local function QMTKBP_fake_script() -- bt3.LocalScript 
+coroutine.wrap(MWGEPSL_fake_script)()
+local function LBNG_fake_script() -- bt3.LocalScript 
 	local script = Instance.new('LocalScript', bt3)
 
 	local i = script.Parent
@@ -789,14 +997,50 @@ local function QMTKBP_fake_script() -- bt3.LocalScript
 		tp(-6.4533453, -9234.58203, -23.5992279, 0.99904716, 0.0218333323, 0.0377873629, -0.0244683754, 0.997195005, 0.0707360953, -0.036136888, -0.0715932548, 0.996779084);
 	end)
 end
-coroutine.wrap(QMTKBP_fake_script)()
-local function KUCTJ_fake_script() -- Button1.LocalScript 
+coroutine.wrap(LBNG_fake_script)()
+local function KFVIDTA_fake_script() -- bt4.LocalScript 
+	local script = Instance.new('LocalScript', bt4)
+
+	local i = script.Parent
+	function notify(msg)
+		game.StarterGui:SetCore("SendNotification", {
+			Title = "Mining simulator 2";         
+			Text = msg;         
+			Duration = 3;     
+		})
+	end
+	_G.On = false
+	i.MouseButton1Click:Connect(function()
+	notify("Teleporting Please wait...")
+		local plr = game:service"Players".LocalPlayer;
+		local tween_s = game:service"TweenService";
+		local info = TweenInfo.new(10,Enum.EasingStyle.Quad);
+		function tp(...)
+			local tic_k = tick();
+			local params = {...};
+			local cframe = CFrame.new(params[1],params[2],params[3]);
+			local tween,err = pcall(function()
+				local tween = tween_s:Create(plr.Character["HumanoidRootPart"],info,{CFrame=cframe});
+				tween:Play();
+			end)
+			if not tween then return err end
+		end
+		tp(8695.45605, -1134.47974, -21.4542313, -0.307428688, 0.0383939557, -0.950796247, -0.0254864357, 0.998495042, 0.0485608168, 0.951229751, 0.0391613878, -0.305987418);
+		wait(11)
+		tp(8696.36426, -3294.48047, -20.8634529, -0.925450265, -0.0390780456, 0.37684837, -0.0266980696, 0.998920083, 0.038020879, -0.377927274, 0.0251253024, -0.925494313);
+		wait(11)
+		tp(8693.29102, -5454.47852, -22.4344387, -0.952728331, -0.0445799828, 0.300534964, -0.0299662668, 0.998141468, 0.0530633554, -0.302341938, 0.0415490344, -0.952293515);
+	end)
+end
+coroutine.wrap(KFVIDTA_fake_script)()
+local function USRLGM_fake_script() -- Button1.LocalScript 
 	local script = Instance.new('LocalScript', Button1)
 
 	local oth = script.Parent.Parent.Parent.th
 	local tw = script.Parent.Parent.Parent.tw
 	local fo = script.Parent.Parent.Parent.fo
 	local fi = script.Parent.Parent.Parent.fi
+	local si = script.Parent.Parent.Parent.si
 	script.Parent.MouseButton1Click:Connect(function()
 		if tw.Visible == true then
 			tw.Visible = false
@@ -805,17 +1049,19 @@ local function KUCTJ_fake_script() -- Button1.LocalScript
 			oth.Visible = false
 			fi.Visible = false
 			fo.Visible = false
+			si.Visible = false
 		end
 	end)
 end
-coroutine.wrap(KUCTJ_fake_script)()
-local function AIXR_fake_script() -- Button2.LocalScript 
+coroutine.wrap(USRLGM_fake_script)()
+local function DKQFYEI_fake_script() -- Button2.LocalScript 
 	local script = Instance.new('LocalScript', Button2)
 
 	local oth = script.Parent.Parent.Parent.tw
 	local tw = script.Parent.Parent.Parent.th
 	local fo = script.Parent.Parent.Parent.fo
 	local fi = script.Parent.Parent.Parent.fi
+	local si = script.Parent.Parent.Parent.si
 	script.Parent.MouseButton1Click:Connect(function()
 		if tw.Visible == true then
 			tw.Visible = false
@@ -824,11 +1070,12 @@ local function AIXR_fake_script() -- Button2.LocalScript
 			oth.Visible = false
 			fi.Visible = false
 			fo.Visible = false
+			si.Visible = false
 		end
 	end)
 end
-coroutine.wrap(AIXR_fake_script)()
-local function YHCKKM_fake_script() -- Button3.LocalScript 
+coroutine.wrap(DKQFYEI_fake_script)()
+local function DWCOZNG_fake_script() -- Button3.LocalScript 
 	local script = Instance.new('LocalScript', Button3)
 
 	function notify(msg)
@@ -842,8 +1089,8 @@ local function YHCKKM_fake_script() -- Button3.LocalScript
 		notify("M!#2326")
 	end)
 end
-coroutine.wrap(YHCKKM_fake_script)()
-local function UUIQCEY_fake_script() -- Button4.LocalScript 
+coroutine.wrap(DWCOZNG_fake_script)()
+local function KSHCRV_fake_script() -- Button4.LocalScript 
 	local script = Instance.new('LocalScript', Button4)
 
 	local fo = script.Parent.Parent.Parent.fo
@@ -851,20 +1098,21 @@ local function UUIQCEY_fake_script() -- Button4.LocalScript
 	local th = script.Parent.Parent.Parent.tw
 	local tw = script.Parent.Parent.Parent.th
 	local fi = script.Parent.Parent.Parent.fi
-	
+	local si = script.Parent.Parent.Parent.si
 	me.MouseButton1Click:Connect(function()
 		if fo.Visible == false then
 			fo.Visible = true
 			th.Visible = false
 			tw.Visible = false
 			fi.Visible = false
+			si.Visible = false
 		elseif fo.Visible == true then
 			fo.Visible = false
 		end
 	end)
 end
-coroutine.wrap(UUIQCEY_fake_script)()
-local function BPYNG_fake_script() -- Button5.LocalScript 
+coroutine.wrap(KSHCRV_fake_script)()
+local function JFWLXBV_fake_script() -- Button5.LocalScript 
 	local script = Instance.new('LocalScript', Button5)
 
 	function notify(msg)
@@ -879,19 +1127,50 @@ local function BPYNG_fake_script() -- Button5.LocalScript
 	local par = script.Parent.Parent.Parent
 	local th = par.tw
 	local tw = par.th
+	local si = script.Parent.Parent.Parent.si
 	script.Parent.MouseButton1Click:Connect(function()
 		if fi.Visible == false then
 			fi.Visible = true
 			tw.Visible = false
 			fo.Visible = false
 			th.Visible = false
+			si.Visible = false
 		elseif fi.Visible == true then
 			fi.Visible = false
 		end
 	end)
 end
-coroutine.wrap(BPYNG_fake_script)()
-local function UHAZX_fake_script() -- Main.LocalScript 
+coroutine.wrap(JFWLXBV_fake_script)()
+local function FWNSKKN_fake_script() -- Button6.LocalScript 
+	local script = Instance.new('LocalScript', Button6)
+
+	function notify(msg)
+		game.StarterGui:SetCore("SendNotification", {
+			Title = "Mining simulator 2";         
+			Text = msg;         
+			Duration = 3;     
+		})
+	end
+	local fi = script.Parent.Parent.Parent.fi
+	local fo = script.Parent.Parent.Parent.fo
+	local par = script.Parent.Parent.Parent
+	local th = par.tw
+	local tw = par.th
+	local si = script.Parent.Parent.Parent.si
+	script.Parent.MouseButton1Click:Connect(function()
+		if si.Visible == false then
+			si.Visible = true
+			tw.Visible = false
+			fo.Visible = false
+			th.Visible = false
+			fi.Visible = false
+		elseif si.Visible == true then
+			si.Visible = false
+		end
+	end)
+end
+coroutine.wrap(FWNSKKN_fake_script)()
+local function JZZK_fake_script() -- Main.LocalScript 
 	local script = Instance.new('LocalScript', Main)
 
 	local UIS = game:GetService("UserInputService")
@@ -932,8 +1211,8 @@ local function UHAZX_fake_script() -- Main.LocalScript
 	
 	dragify(script.Parent)
 end
-coroutine.wrap(UHAZX_fake_script)()
-local function HJGO_fake_script() -- btn2.LocalScript 
+coroutine.wrap(JZZK_fake_script)()
+local function OZVK_fake_script() -- btn2.LocalScript 
 	local script = Instance.new('LocalScript', btn2)
 
 	local i = script.Parent
@@ -949,8 +1228,8 @@ local function HJGO_fake_script() -- btn2.LocalScript
 			notify("Ore ESP Enabled")
 	end)
 end
-coroutine.wrap(HJGO_fake_script)()
-local function SHWGXYB_fake_script() -- btn1.LocalScript 
+coroutine.wrap(OZVK_fake_script)()
+local function NTQOY_fake_script() -- btn1.LocalScript 
 	local script = Instance.new('LocalScript', btn1)
 
 	local i = script.Parent
@@ -966,14 +1245,14 @@ local function SHWGXYB_fake_script() -- btn1.LocalScript
 			notify("Chest ESP Enabled")
 	end)
 end
-coroutine.wrap(SHWGXYB_fake_script)()
-local function WWJHX_fake_script() -- Main.not 
+coroutine.wrap(NTQOY_fake_script)()
+local function EEEAV_fake_script() -- Main.not 
 	local script = Instance.new('LocalScript', Main)
 
 	wait(0.2)
 	function notify(msg)
 		game.StarterGui:SetCore("SendNotification", {
-			Title = "Mining simulator 2 (V1.3)";         
+			Title = "Mining simulator 2 (V1.4)";         
 			Text = msg;         
 			Duration = 3;     
 		})
@@ -982,8 +1261,8 @@ local function WWJHX_fake_script() -- Main.not
 	wait(2)
 	notify("Press rightshift to hide/unhide gui")
 end
-coroutine.wrap(WWJHX_fake_script)()
-local function FDGXL_fake_script() -- btn1_2.LocalScript 
+coroutine.wrap(EEEAV_fake_script)()
+local function KBQCM_fake_script() -- btn1_2.LocalScript 
 	local script = Instance.new('LocalScript', btn1_2)
 
 	local i = script.Parent
@@ -1006,8 +1285,8 @@ local function FDGXL_fake_script() -- btn1_2.LocalScript
 		end
 	end)
 end
-coroutine.wrap(FDGXL_fake_script)()
-local function WXBCUCU_fake_script() -- btn2_2.LocalScript 
+coroutine.wrap(KBQCM_fake_script)()
+local function IEPWAF_fake_script() -- btn2_2.LocalScript 
 	local script = Instance.new('LocalScript', btn2_2)
 
 	local i = script.Parent
@@ -1030,8 +1309,8 @@ local function WXBCUCU_fake_script() -- btn2_2.LocalScript
 		end
 	end)
 end
-coroutine.wrap(WXBCUCU_fake_script)()
-local function PMFCO_fake_script() -- btn9.LocalScript 
+coroutine.wrap(IEPWAF_fake_script)()
+local function OAXJN_fake_script() -- btn9.LocalScript 
 	local script = Instance.new('LocalScript', btn9)
 
 	local i = script.Parent
@@ -1054,8 +1333,8 @@ local function PMFCO_fake_script() -- btn9.LocalScript
 		end
 	end)
 end
-coroutine.wrap(PMFCO_fake_script)()
-local function MQOZPQ_fake_script() -- btn8.LocalScript 
+coroutine.wrap(OAXJN_fake_script)()
+local function ZGOQT_fake_script() -- btn8.LocalScript 
 	local script = Instance.new('LocalScript', btn8)
 
 	local i = script.Parent
@@ -1078,8 +1357,8 @@ local function MQOZPQ_fake_script() -- btn8.LocalScript
 		end
 	end)
 end
-coroutine.wrap(MQOZPQ_fake_script)()
-local function UOKTBD_fake_script() -- btn7.LocalScript 
+coroutine.wrap(ZGOQT_fake_script)()
+local function ENHGLDC_fake_script() -- btn7.LocalScript 
 	local script = Instance.new('LocalScript', btn7)
 
 	local i = script.Parent
@@ -1102,8 +1381,8 @@ local function UOKTBD_fake_script() -- btn7.LocalScript
 		end
 	end)
 end
-coroutine.wrap(UOKTBD_fake_script)()
-local function ZETED_fake_script() -- btn6.LocalScript 
+coroutine.wrap(ENHGLDC_fake_script)()
+local function TYTR_fake_script() -- btn6.LocalScript 
 	local script = Instance.new('LocalScript', btn6)
 
 	local i = script.Parent
@@ -1126,8 +1405,8 @@ local function ZETED_fake_script() -- btn6.LocalScript
 		end
 	end)
 end
-coroutine.wrap(ZETED_fake_script)()
-local function AHJJPY_fake_script() -- btn5.LocalScript 
+coroutine.wrap(TYTR_fake_script)()
+local function OCDWX_fake_script() -- btn5.LocalScript 
 	local script = Instance.new('LocalScript', btn5)
 
 	local i = script.Parent
@@ -1150,8 +1429,8 @@ local function AHJJPY_fake_script() -- btn5.LocalScript
 		end
 	end)
 end
-coroutine.wrap(AHJJPY_fake_script)()
-local function NXXYO_fake_script() -- btn4.LocalScript 
+coroutine.wrap(OCDWX_fake_script)()
+local function MNSISYG_fake_script() -- btn4.LocalScript 
 	local script = Instance.new('LocalScript', btn4)
 
 	local i = script.Parent
@@ -1174,8 +1453,8 @@ local function NXXYO_fake_script() -- btn4.LocalScript
 		end
 	end)
 end
-coroutine.wrap(NXXYO_fake_script)()
-local function GWZD_fake_script() -- btn3.LocalScript 
+coroutine.wrap(MNSISYG_fake_script)()
+local function ALXKSH_fake_script() -- btn3.LocalScript 
 	local script = Instance.new('LocalScript', btn3)
 
 	local i = script.Parent
@@ -1198,8 +1477,8 @@ local function GWZD_fake_script() -- btn3.LocalScript
 		end
 	end)
 end
-coroutine.wrap(GWZD_fake_script)()
-local function TEIVT_fake_script() -- btn10.LocalScript 
+coroutine.wrap(ALXKSH_fake_script)()
+local function LGSZF_fake_script() -- btn10.LocalScript 
 	local script = Instance.new('LocalScript', btn10)
 
 	local i = script.Parent
@@ -1222,16 +1501,16 @@ local function TEIVT_fake_script() -- btn10.LocalScript
 		end
 	end)
 end
-coroutine.wrap(TEIVT_fake_script)()
-local function AWXLGGW_fake_script() -- close.LocalScript 
+coroutine.wrap(LGSZF_fake_script)()
+local function RMBNEAO_fake_script() -- close.LocalScript 
 	local script = Instance.new('LocalScript', close)
 
 	script.Parent.MouseButton1Click:Connect(function()
 		script.Parent.Parent.Parent.Parent:Destroy()
 	end)
 end
-coroutine.wrap(AWXLGGW_fake_script)()
-local function QABY_fake_script() -- Main.Script 
+coroutine.wrap(RMBNEAO_fake_script)()
+local function UIVPFZ_fake_script() -- Main.Script 
 	local script = Instance.new('LocalScript', Main)
 
 	local UIS = game:GetService("UserInputService")
@@ -1246,9 +1525,209 @@ local function QABY_fake_script() -- Main.Script
 		end
 	end)
 end
-coroutine.wrap(QABY_fake_script)()
-local function BDTWIW_fake_script() -- btn1_3.LocalScript 
+coroutine.wrap(UIVPFZ_fake_script)()
+local function UIWFZWK_fake_script() -- btn1_3.LocalScript 
 	local script = Instance.new('LocalScript', btn1_3)
+
+	local i = script.Parent
+	function notify(msg)
+		game.StarterGui:SetCore("SendNotification", {
+			Title = "Mining simulator 2";         
+			Text = msg;         
+			Duration = 3;     
+		})
+	end
+	i.MouseButton1Click:Connect(function()
+		notify("Collecting all Wooden Chests, please wait till done, if this glitches then rejoin")
+		local _speed=50 
+		function tp(...)
+			local plr=game.Players.LocalPlayer
+			local args={...}
+			if typeof(args[1])=="number"and args[2]and args[3]then
+				args=Vector3.new(args[1],args[2],args[3])
+			elseif typeof(args[1])=="Vector3" then
+				args=args[1]    
+			elseif typeof(args[1])=="CFrame" then
+				args=args[1].Position
+			end
+			local dist=(plr.Character.HumanoidRootPart.Position-args).Magnitude
+			game:GetService("TweenService"):Create(
+			plr.Character.HumanoidRootPart,
+			TweenInfo.new(dist/_speed,Enum.EasingStyle.Linear),
+			{CFrame=CFrame.new(args)}
+			):Play()
+		end
+	
+		for i,v in pairs(game:GetService("Workspace").Chests:GetChildren()) do
+			if v.Name == "Wood" then
+				tp(game:GetService("Workspace").Chests.Wood.Part.Position) 
+			end
+		end
+	end)
+end
+coroutine.wrap(UIWFZWK_fake_script)()
+local function RNRORR_fake_script() -- btn2_3.LocalScript 
+	local script = Instance.new('LocalScript', btn2_3)
+
+	local i = script.Parent
+	function notify(msg)
+		game.StarterGui:SetCore("SendNotification", {
+			Title = "Mining simulator 2";         
+			Text = msg;         
+			Duration = 3;     
+		})
+	end
+	i.MouseButton1Click:Connect(function()
+		notify("Collecting all Silver Chests, please wait till done, if this glitches then rejoin")
+		local _speed=50 
+		function tp(...)
+			local plr=game.Players.LocalPlayer
+			local args={...}
+			if typeof(args[1])=="number"and args[2]and args[3]then
+				args=Vector3.new(args[1],args[2],args[3])
+			elseif typeof(args[1])=="Vector3" then
+				args=args[1]    
+			elseif typeof(args[1])=="CFrame" then
+				args=args[1].Position
+			end
+			local dist=(plr.Character.HumanoidRootPart.Position-args).Magnitude
+			game:GetService("TweenService"):Create(
+			plr.Character.HumanoidRootPart,
+			TweenInfo.new(dist/_speed,Enum.EasingStyle.Linear),
+			{CFrame=CFrame.new(args)}
+			):Play()
+		end
+	
+		for i,v in pairs(game:GetService("Workspace").Chests:GetChildren()) do
+			if v.Name == "Silver" then
+				tp(game:GetService("Workspace").Chests.Silver.Part.Position) 
+			end
+		end
+	end)
+end
+coroutine.wrap(RNRORR_fake_script)()
+local function XBSW_fake_script() -- btn3_2.LocalScript 
+	local script = Instance.new('LocalScript', btn3_2)
+
+	local i = script.Parent
+	function notify(msg)
+		game.StarterGui:SetCore("SendNotification", {
+			Title = "Mining simulator 2";         
+			Text = msg;         
+			Duration = 3;     
+		})
+	end
+	i.MouseButton1Click:Connect(function()
+		notify("Collecting all Wooden Chests, please wait till done, if this glitches then rejoin")
+		local _speed=50 
+		function tp(...)
+			local plr=game.Players.LocalPlayer
+			local args={...}
+			if typeof(args[1])=="number"and args[2]and args[3]then
+				args=Vector3.new(args[1],args[2],args[3])
+			elseif typeof(args[1])=="Vector3" then
+				args=args[1]    
+			elseif typeof(args[1])=="CFrame" then
+				args=args[1].Position
+			end
+			local dist=(plr.Character.HumanoidRootPart.Position-args).Magnitude
+			game:GetService("TweenService"):Create(
+			plr.Character.HumanoidRootPart,
+			TweenInfo.new(dist/_speed,Enum.EasingStyle.Linear),
+			{CFrame=CFrame.new(args)}
+			):Play()
+		end
+	
+		for i,v in pairs(game:GetService("Workspace").Chests:GetChildren()) do
+			if v.Name == "Gold" then
+				tp(game:GetService("Workspace").Chests.Gold.Part.Position) 
+			end
+		end
+	end)
+end
+coroutine.wrap(XBSW_fake_script)()
+local function CERSG_fake_script() -- btn4_2.LocalScript 
+	local script = Instance.new('LocalScript', btn4_2)
+
+	local i = script.Parent
+	function notify(msg)
+		game.StarterGui:SetCore("SendNotification", {
+			Title = "Mining simulator 2";         
+			Text = msg;         
+			Duration = 3;     
+		})
+	end
+	i.MouseButton1Click:Connect(function()
+		notify("Collecting all Epic Chests, please wait till done, if this glitches then rejoin")
+		local _speed=50 
+		function tp(...)
+			local plr=game.Players.LocalPlayer
+			local args={...}
+			if typeof(args[1])=="number"and args[2]and args[3]then
+				args=Vector3.new(args[1],args[2],args[3])
+			elseif typeof(args[1])=="Vector3" then
+				args=args[1]    
+			elseif typeof(args[1])=="CFrame" then
+				args=args[1].Position
+			end
+			local dist=(plr.Character.HumanoidRootPart.Position-args).Magnitude
+			game:GetService("TweenService"):Create(
+			plr.Character.HumanoidRootPart,
+			TweenInfo.new(dist/_speed,Enum.EasingStyle.Linear),
+			{CFrame=CFrame.new(args)}
+			):Play()
+		end
+	
+		for i,v in pairs(game:GetService("Workspace").Chests:GetChildren()) do
+			if v.Name == "Epic" then
+				tp(game:GetService("Workspace").Chests.Epic.Part.Position) 
+			end
+		end
+	end)
+end
+coroutine.wrap(CERSG_fake_script)()
+local function NSQUP_fake_script() -- btn5_2.LocalScript 
+	local script = Instance.new('LocalScript', btn5_2)
+
+	local i = script.Parent
+	function notify(msg)
+		game.StarterGui:SetCore("SendNotification", {
+			Title = "Mining simulator 2";         
+			Text = msg;         
+			Duration = 3;     
+		})
+	end
+	i.MouseButton1Click:Connect(function()
+		notify("Collecting all Legendary Chests, please wait till done, if this glitches then rejoin")
+		local _speed=50 
+		function tp(...)
+			local plr=game.Players.LocalPlayer
+			local args={...}
+			if typeof(args[1])=="number"and args[2]and args[3]then
+				args=Vector3.new(args[1],args[2],args[3])
+			elseif typeof(args[1])=="Vector3" then
+				args=args[1]    
+			elseif typeof(args[1])=="CFrame" then
+				args=args[1].Position
+			end
+			local dist=(plr.Character.HumanoidRootPart.Position-args).Magnitude
+			game:GetService("TweenService"):Create(
+			plr.Character.HumanoidRootPart,
+			TweenInfo.new(dist/_speed,Enum.EasingStyle.Linear),
+			{CFrame=CFrame.new(args)}
+			):Play()
+		end
+	
+		for i,v in pairs(game:GetService("Workspace").Chests:GetChildren()) do
+			if v.Name == "Legendary" then
+				tp(game:GetService("Workspace").Chests.Legendary.Part.Position) 
+			end
+		end
+	end)
+end
+coroutine.wrap(NSQUP_fake_script)()
+local function IQUAAHY_fake_script() -- btn1_4.LocalScript 
+	local script = Instance.new('LocalScript', btn1_4)
 
 	local i = script.Parent
 	function notify(msg)
@@ -1277,9 +1756,9 @@ local function BDTWIW_fake_script() -- btn1_3.LocalScript
 			notify("Teleporting, please wait")
 	end)
 end
-coroutine.wrap(BDTWIW_fake_script)()
-local function HMQEYWO_fake_script() -- btn2_3.LocalScript 
-	local script = Instance.new('LocalScript', btn2_3)
+coroutine.wrap(IQUAAHY_fake_script)()
+local function AJSPB_fake_script() -- btn2_4.LocalScript 
+	local script = Instance.new('LocalScript', btn2_4)
 
 	local i = script.Parent
 	function notify(msg)
@@ -1308,9 +1787,9 @@ local function HMQEYWO_fake_script() -- btn2_3.LocalScript
 		notify("Teleporting, please wait")
 	end)
 end
-coroutine.wrap(HMQEYWO_fake_script)()
-local function HYQR_fake_script() -- btn3_2.LocalScript 
-	local script = Instance.new('LocalScript', btn3_2)
+coroutine.wrap(AJSPB_fake_script)()
+local function KOWMMTH_fake_script() -- btn3_3.LocalScript 
+	local script = Instance.new('LocalScript', btn3_3)
 
 	local i = script.Parent
 	function notify(msg)
@@ -1338,9 +1817,9 @@ local function HYQR_fake_script() -- btn3_2.LocalScript
 		tp(-4.85861254, -3834.58105, -22.6843395, -0.901812971, 0.0179100484, -0.431755215, -0.022916289, 0.995752752, 0.0891712755, 0.431518376, 0.0903100073, -0.897572279);
 	end)
 end
-coroutine.wrap(HYQR_fake_script)()
-local function ACVGVPY_fake_script() -- btn4_2.LocalScript 
-	local script = Instance.new('LocalScript', btn4_2)
+coroutine.wrap(KOWMMTH_fake_script)()
+local function BQXN_fake_script() -- btn4_3.LocalScript 
+	local script = Instance.new('LocalScript', btn4_3)
 
 	local i = script.Parent
 	function notify(msg)
@@ -1369,9 +1848,9 @@ local function ACVGVPY_fake_script() -- btn4_2.LocalScript
 	notify("Teleporting, please wait")
 	end)
 end
-coroutine.wrap(ACVGVPY_fake_script)()
-local function NNHLNU_fake_script() -- btn5_2.LocalScript 
-	local script = Instance.new('LocalScript', btn5_2)
+coroutine.wrap(BQXN_fake_script)()
+local function BOVF_fake_script() -- btn5_3.LocalScript 
+	local script = Instance.new('LocalScript', btn5_3)
 
 	local i = script.Parent
 	function notify(msg)
@@ -1400,8 +1879,8 @@ local function NNHLNU_fake_script() -- btn5_2.LocalScript
 		notify("Teleporting, please wait")
 	end)
 end
-coroutine.wrap(NNHLNU_fake_script)()
-local function BOETWJJ_fake_script() -- btn6_2.LocalScript 
+coroutine.wrap(BOVF_fake_script)()
+local function SBRXV_fake_script() -- btn6_2.LocalScript 
 	local script = Instance.new('LocalScript', btn6_2)
 
 	local i = script.Parent
@@ -1431,4 +1910,125 @@ local function BOETWJJ_fake_script() -- btn6_2.LocalScript
 		notify("Teleporting, please wait")
 	end)
 end
-coroutine.wrap(BOETWJJ_fake_script)()
+coroutine.wrap(SBRXV_fake_script)()
+local function ACAZIM_fake_script() -- btn6_3.LocalScript 
+	local script = Instance.new('LocalScript', btn6_3)
+
+	local i = script.Parent
+	function notify(msg)
+		game.StarterGui:SetCore("SendNotification", {
+			Title = "Mining simulator 2";         
+			Text = msg;         
+			Duration = 3;     
+		})
+	end
+	i.MouseButton1Click:Connect(function()
+	
+		local plr = game:service"Players".LocalPlayer;
+		local tween_s = game:service"TweenService";
+		local info = TweenInfo.new(20,Enum.EasingStyle.Quad);
+		function tp(...)
+			local tic_k = tick();
+			local params = {...};
+			local cframe = CFrame.new(params[1],params[2],params[3]);
+			local tween,err = pcall(function()
+				local tween = tween_s:Create(plr.Character["HumanoidRootPart"],info,{CFrame=cframe});
+				tween:Play();
+			end)
+			if not tween then return err end
+		end
+		tp(-6.4533453, -9234.58203, -23.5992279, 0.99904716, 0.0218333323, 0.0377873629, -0.0244683754, 0.997195005, 0.0707360953, -0.036136888, -0.0715932548, 0.996779084);
+		notify("Teleporting, please wait")
+	end)
+end
+coroutine.wrap(ACAZIM_fake_script)()
+local function SOJMQU_fake_script() -- btn7_2.LocalScript 
+	local script = Instance.new('LocalScript', btn7_2)
+
+	local i = script.Parent
+	function notify(msg)
+		game.StarterGui:SetCore("SendNotification", {
+			Title = "Mining simulator 2";         
+			Text = msg;         
+			Duration = 3;     
+		})
+	end
+	i.MouseButton1Click:Connect(function()
+		local plr = game:service"Players".LocalPlayer;
+		local tween_s = game:service"TweenService";
+		local info = TweenInfo.new(20,Enum.EasingStyle.Quad);
+		function tp(...)
+			local tic_k = tick();
+			local params = {...};
+			local cframe = CFrame.new(params[1],params[2],params[3]);
+			local tween,err = pcall(function()
+				local tween = tween_s:Create(plr.Character["HumanoidRootPart"],info,{CFrame=cframe});
+				tween:Play();
+			end)
+			if not tween then return err end
+		end
+		tp(8695.45605, -1134.47974, -21.4542313, -0.307428688, 0.0383939557, -0.950796247, -0.0254864357, 0.998495042, 0.0485608168, 0.951229751, 0.0391613878, -0.305987418);
+		notify("Teleporting, please wait")
+	end)
+end
+coroutine.wrap(SOJMQU_fake_script)()
+local function GXNYKIU_fake_script() -- btn8_2.LocalScript 
+	local script = Instance.new('LocalScript', btn8_2)
+
+	local i = script.Parent
+	function notify(msg)
+		game.StarterGui:SetCore("SendNotification", {
+			Title = "Mining simulator 2";         
+			Text = msg;         
+			Duration = 3;     
+		})
+	end
+	i.MouseButton1Click:Connect(function()
+		local plr = game:service"Players".LocalPlayer;
+		local tween_s = game:service"TweenService";
+		local info = TweenInfo.new(20,Enum.EasingStyle.Quad);
+		function tp(...)
+			local tic_k = tick();
+			local params = {...};
+			local cframe = CFrame.new(params[1],params[2],params[3]);
+			local tween,err = pcall(function()
+				local tween = tween_s:Create(plr.Character["HumanoidRootPart"],info,{CFrame=cframe});
+				tween:Play();
+			end)
+			if not tween then return err end
+		end
+		tp(8696.36426, -3294.48047, -20.8634529, -0.925450265, -0.0390780456, 0.37684837, -0.0266980696, 0.998920083, 0.038020879, -0.377927274, 0.0251253024, -0.925494313);
+		notify("Teleporting, please wait")
+	end)
+end
+coroutine.wrap(GXNYKIU_fake_script)()
+local function XGMBN_fake_script() -- btn9_2.LocalScript 
+	local script = Instance.new('LocalScript', btn9_2)
+
+	local i = script.Parent
+	function notify(msg)
+		game.StarterGui:SetCore("SendNotification", {
+			Title = "Mining simulator 2";         
+			Text = msg;         
+			Duration = 3;     
+		})
+	end
+	i.MouseButton1Click:Connect(function()
+		local plr = game:service"Players".LocalPlayer;
+		local tween_s = game:service"TweenService";
+		local info = TweenInfo.new(20,Enum.EasingStyle.Quad);
+		function tp(...)
+			local tic_k = tick();
+			local params = {...};
+			local cframe = CFrame.new(params[1],params[2],params[3]);
+			local tween,err = pcall(function()
+				local tween = tween_s:Create(plr.Character["HumanoidRootPart"],info,{CFrame=cframe});
+				tween:Play();
+			end)
+			if not tween then return err end
+		end
+		tp(8693.29102, -5454.47852, -22.4344387, -0.952728331, -0.0445799828, 0.300534964, -0.0299662668, 0.998141468, 0.0530633554, -0.302341938, 0.0415490344, -0.952293515);
+		notify("Teleporting, please wait")
+	end)
+end
+coroutine.wrap(XGMBN_fake_script)()
